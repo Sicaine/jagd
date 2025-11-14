@@ -355,8 +355,178 @@ func (p *Parser) parseText(text string) (*models.QuestionCatalog, error) {
 		}
 	}
 
+	// If we got 0 questions, try parsing unnumbered format (e.g., SG3)
+	if len(catalog.Questions) == 0 {
+		catalog.Questions = parseUnnumberedQuestions(text, currentCategory)
+	}
+
 	catalog.TotalCount = len(catalog.Questions)
 	return catalog, nil
+}
+
+// parseUnnumberedQuestions parses questions that don't have explicit numbering
+// Used for Sachgebiet 3 (Rechtliche Vorschriften) which has questions without numbers
+func parseUnnumberedQuestions(text, category string) []models.Question {
+	lines := strings.Split(text, "\n")
+
+	var questions []models.Question
+	var currentQuestion *rawQuestion
+	var questionID int
+	nextOptionIsCorrect := false
+
+	questionPattern := regexp.MustCompile(`\?`) // Questions end with ?
+	optionPattern := regexp.MustCompile(`^\s*([a-f])\)\s*(.+)$`)
+	optionWithXPattern := regexp.MustCompile(`^\s*X\s+([a-f])\)\s*(.*)$`)
+	justXPattern := regexp.MustCompile(`^\s*X\s*$`)
+	emptyLinePattern := regexp.MustCompile(`^\s*$`)
+
+	// Skip to content
+	startIdx := 0
+	sectionHeaderPattern := regexp.MustCompile(`^\s*\d+\.\d+\s+`)
+
+	for i := 0; i < len(lines); i++ {
+		trimmedLine := strings.TrimSpace(lines[i])
+		if sectionHeaderPattern.MatchString(trimmedLine) {
+			startIdx = i
+			// Capture category
+			for j := i - 1; j >= 0 && j >= i-50; j-- {
+				if strings.Contains(strings.TrimSpace(lines[j]), "Sachgebiet") && strings.Contains(strings.TrimSpace(lines[j]), ":") {
+					category = strings.TrimSpace(lines[j])
+					break
+				}
+			}
+			break
+		}
+	}
+
+	for i := startIdx; i < len(lines); i++ {
+		trimmedLine := strings.TrimSpace(lines[i])
+
+		// Skip empty lines
+		if emptyLinePattern.MatchString(trimmedLine) {
+			continue
+		}
+
+		// Skip metadata
+		if strings.Contains(trimmedLine, "Stand:") || strings.Contains(trimmedLine, "Seite") ||
+			strings.Contains(trimmedLine, "Sachgebiet") && !strings.Contains(trimmedLine, ":") {
+			continue
+		}
+
+		// Detect standalone X marker
+		if justXPattern.MatchString(trimmedLine) {
+			nextOptionIsCorrect = true
+			continue
+		}
+
+		// Check if this is a question (contains question mark and is reasonably long)
+		if questionPattern.MatchString(trimmedLine) && len(trimmedLine) > 10 {
+			// Save previous question if exists
+			if currentQuestion != nil && len(currentQuestion.text) > 5 && len(currentQuestion.options) > 0 {
+				questionID++
+				var opts []models.Option
+				letters := []string{"a", "b", "c", "d", "e", "f"}
+				for _, letter := range letters {
+					if opt, exists := currentQuestion.options[letter]; exists {
+						opts = append(opts, *opt)
+					}
+				}
+
+				q := models.Question{
+					ID:       questionID,
+					Text:     currentQuestion.text,
+					Options:  opts,
+					Category: category,
+				}
+				questions = append(questions, q)
+			}
+
+			// Start new question
+			currentQuestion = newRawQuestion(questionID, trimmedLine)
+			nextOptionIsCorrect = false
+		} else if currentQuestion != nil {
+			// Handle options
+			if matches := optionWithXPattern.FindStringSubmatch(trimmedLine); matches != nil {
+				letter := matches[1]
+				optText := strings.TrimSpace(matches[2])
+
+				// Collect multi-line option text
+				for j := i + 1; j < len(lines) && j < i+5; j++ {
+					nextLine := strings.TrimSpace(lines[j])
+					if emptyLinePattern.MatchString(nextLine) {
+						continue
+					}
+					if optionPattern.MatchString(nextLine) || optionWithXPattern.MatchString(nextLine) {
+						break
+					}
+					optText += " " + nextLine
+				}
+
+				optText = strings.TrimSpace(optText)
+				optText = regexp.MustCompile(`\s+X\s*$`).ReplaceAllString(optText, "")
+				optText = regexp.MustCompile(`\s+[a-f]\)\s*$`).ReplaceAllString(optText, "")
+				optText = strings.TrimSpace(optText)
+
+				currentQuestion.options[letter] = &models.Option{
+					Letter:  letter,
+					Text:    optText,
+					Correct: true,
+				}
+				nextOptionIsCorrect = false
+			} else if matches := optionPattern.FindStringSubmatch(trimmedLine); matches != nil {
+				letter := matches[1]
+				optText := strings.TrimSpace(matches[2])
+
+				// Collect multi-line option text
+				for j := i + 1; j < len(lines) && j < i+5; j++ {
+					nextLine := strings.TrimSpace(lines[j])
+					if emptyLinePattern.MatchString(nextLine) {
+						continue
+					}
+					if optionPattern.MatchString(nextLine) || optionWithXPattern.MatchString(nextLine) {
+						break
+					}
+					optText += " " + nextLine
+				}
+
+				optText = strings.TrimSpace(optText)
+				optText = regexp.MustCompile(`\s+X\s*$`).ReplaceAllString(optText, "")
+				optText = regexp.MustCompile(`\s+[a-f]\)\s*$`).ReplaceAllString(optText, "")
+				optText = strings.TrimSpace(optText)
+
+				isCorrect := nextOptionIsCorrect
+				nextOptionIsCorrect = false
+
+				currentQuestion.options[letter] = &models.Option{
+					Letter:  letter,
+					Text:    optText,
+					Correct: isCorrect,
+				}
+			}
+		}
+	}
+
+	// Add the last question
+	if currentQuestion != nil && len(currentQuestion.text) > 5 && len(currentQuestion.options) > 0 {
+		questionID++
+		var opts []models.Option
+		letters := []string{"a", "b", "c", "d", "e", "f"}
+		for _, letter := range letters {
+			if opt, exists := currentQuestion.options[letter]; exists {
+				opts = append(opts, *opt)
+			}
+		}
+
+		q := models.Question{
+			ID:       questionID,
+			Text:     currentQuestion.text,
+			Options:  opts,
+			Category: category,
+		}
+		questions = append(questions, q)
+	}
+
+	return questions
 }
 
 // ParseFile is a convenience function that takes a filename and returns the parsed catalog

@@ -3,7 +3,7 @@
   "year": 2025,
   "state": "by",
   "subject": "Alle Sachgebiete (SG 1-6)",
-  "totalCount": 1076,
+  "totalCount": 1308,
   "questions": [
     {
       "id": 1,
@@ -11425,6 +11425,5650 @@
         }
       ],
       "category": "2. Sachgebiet: Biologie der Wildarten"
+    },
+    {
+      "id": 1,
+      "text": "Welche Aussagen geben Vorgaben unserer Jagdgesetze wieder?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "dazu beitragen, die natürlichen Lebensgrundlagen des Wildes zu erhalten und zu verbessern",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Beeinträchtigungen der Landnutzung möglichst vermeiden",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "die Verjüngung des Waldes im Wesentlichen ohne Schutzmaßnahmen ermöglichen",
+          "correct": true
+        },
+        {
+          "letter": "d",
+          "text": "Vorrang genießen vor den Interessen der Landwirtschaft und des Naturschutzes",
+          "correct": false
+        },
+        {
+          "letter": "e",
+          "text": "möglichst hohe Wildbestände erhalten",
+          "correct": false
+        },
+        {
+          "letter": "f",
+          "text": "einen artenreichen, gesunden Wildbestand erhalten Was beinhaltet die gesetzliche Pflicht zur Hege?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 2,
+      "text": "Was beinhaltet die gesetzliche Pflicht zur Hege?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Sicherung ausreichender natürlicher Äsung",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Fütterung im Herbst zur Minderung von Wildschäden",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Die Reduktion überhöhter Wildbestände Was beinhaltet die gesetzliche Pflicht zur Hege?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 3,
+      "text": "Was beinhaltet die gesetzliche Pflicht zur Hege?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Erhaltung oder Herstellung eines natürlichen Geschlechterverhältnisses",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Pflicht zur Fütterung in Notzeiten",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "Gabe von Kraftfutter zur Gewinnung starker Trophäen Welche der nachgenannten Tierarten unterliegen in Bayern dem Jagdrecht?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 4,
+      "text": "Welche der nachgenannten Tierarten unterliegen in Bayern dem Jagdrecht?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Marderhund",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Mauswiesel",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "Türkentaube",
+          "correct": true
+        },
+        {
+          "letter": "d",
+          "text": "Habicht",
+          "correct": true
+        },
+        {
+          "letter": "e",
+          "text": "Saatkrähe",
+          "correct": false
+        },
+        {
+          "letter": "f",
+          "text": "Rabenkrähe Sachgebiet 3 Stand: 06.08.2025",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 5,
+      "text": "Welche der nachgenannten Tierarten unterliegen in Bayern dem Jagdrecht?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Fischotter",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Bisam",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Waschbär",
+          "correct": true
+        },
+        {
+          "letter": "d",
+          "text": "Uhu",
+          "correct": false
+        },
+        {
+          "letter": "e",
+          "text": "Auerwild",
+          "correct": true
+        },
+        {
+          "letter": "f",
+          "text": "Elster Welche der nachgenannten Tierarten unterliegen in Bayern dem Jagdrecht?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 6,
+      "text": "Welche der nachgenannten Tierarten unterliegen in Bayern dem Jagdrecht?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Wildkatze",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Eichhörnchen",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Kanadagans",
+          "correct": true
+        },
+        {
+          "letter": "d",
+          "text": "Bekassine",
+          "correct": false
+        },
+        {
+          "letter": "e",
+          "text": "Mäusebussard",
+          "correct": true
+        },
+        {
+          "letter": "f",
+          "text": "Haselwild Welche der nachgenannten Tierarten unterliegen in Bayern dem Jagdrecht?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 7,
+      "text": "Welche der nachgenannten Tierarten unterliegen in Bayern dem Jagdrecht?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Luchs",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Mink (amerikanischer Nerz)",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "Großes Wiesel (Hermelin)",
+          "correct": true
+        },
+        {
+          "letter": "d",
+          "text": "Brachvogel",
+          "correct": false
+        },
+        {
+          "letter": "e",
+          "text": "Alpenschneehuhn",
+          "correct": true
+        },
+        {
+          "letter": "f",
+          "text": "Höckerschwan Welche der nachgenannten Tierarten unterliegen in Bayern dem Jagdrecht?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 8,
+      "text": "Welche der nachgenannten Tierarten unterliegen in Bayern dem Jagdrecht?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Iltis",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Biber",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Wanderfalke",
+          "correct": true
+        },
+        {
+          "letter": "d",
+          "text": "Hohltaube",
+          "correct": true
+        },
+        {
+          "letter": "e",
+          "text": "Kormoran",
+          "correct": false
+        },
+        {
+          "letter": "f",
+          "text": "Gänsesäger Sachgebiet 3 Stand: 06.08.2025",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 9,
+      "text": "Welche der nachgenannten Tierarten unterliegen in Bayern dem Jagdrecht?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Lachmöwe",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Knäkente",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "Wolf",
+          "correct": false
+        },
+        {
+          "letter": "d",
+          "text": "Wachtel",
+          "correct": true
+        },
+        {
+          "letter": "e",
+          "text": "Waldohreule",
+          "correct": false
+        },
+        {
+          "letter": "f",
+          "text": "Eichelhäher Welche der nachgenannten Tierarten unterliegen in Bayern dem Jagdrecht?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 10,
+      "text": "Welche der nachgenannten Tierarten unterliegen in Bayern dem Jagdrecht?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Zwergtaucher",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Murmeltier",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "Sumpfbiber (Nutria)",
+          "correct": true
+        },
+        {
+          "letter": "d",
+          "text": "Waldschnepfe",
+          "correct": true
+        },
+        {
+          "letter": "e",
+          "text": "Kiebitz",
+          "correct": false
+        },
+        {
+          "letter": "f",
+          "text": "Haubentaucher Welche der nachgenannten Tierarten unterliegen in Bayern dem Jagdrecht?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 11,
+      "text": "Welche der nachgenannten Tierarten unterliegen in Bayern dem Jagdrecht?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Schneehase",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Kolbenente",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "Krickente",
+          "correct": true
+        },
+        {
+          "letter": "d",
+          "text": "Graugans",
+          "correct": true
+        },
+        {
+          "letter": "e",
+          "text": "Silberreiher",
+          "correct": false
+        },
+        {
+          "letter": "f",
+          "text": "Kolkrabe Welche der nachgenannten Wildarten zählen jagdrechtlich zum Hochwild?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 12,
+      "text": "Welche der nachgenannten Wildarten zählen jagdrechtlich zum Hochwild?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Schwarzwild",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Auerwild",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "Birkwild",
+          "correct": false
+        },
+        {
+          "letter": "d",
+          "text": "Rotwild",
+          "correct": true
+        },
+        {
+          "letter": "e",
+          "text": "Damwild",
+          "correct": true
+        },
+        {
+          "letter": "f",
+          "text": "Rehwild Sachgebiet 3 Stand: 06.08.2025",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 13,
+      "text": "eines Keilers einen gültigen Jagdschein?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Nein, es genügt die Erlaubnis des Eigentümers",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Ja, es bedarf eines Jagdscheines",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "Nein, es genügt die Erlaubnis des Eigentümers und der unteren Jagdbehörde Sind Eigentümer von befriedeten Grundstücken, die in einem Jagdrevier liegen, mit diesen Flächen Mitglieder der Jagdgenossenschaft?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 14,
+      "text": "Flächen Mitglieder der Jagdgenossenschaft?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Nein Der Eigentümer eines Bauernhofes bittet den Revierinhaber, die in seiner an das Wohnhaus angrenzenden Scheune hausenden Steinmarder zu fangen. Der Revierinhaber möchte hierzu im Januar eine Kastenfalle aufstellen. Benötigt er dafür eine Gestattung der Jagdbehörde?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 15,
+      "text": "im Januar eine Kastenfalle aufstellen. Benötigt er dafür eine Gestattung der Jagdbehörde?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Nein Im eingezäunten Hausgarten eines Bauernhofes richten Wildkaninchen immer wieder Schaden an. Der Bauer bittet den Revierinhaber, in seinem Hausgarten Wildkaninchen mit der Schusswaffe zu erlegen. Braucht der Revierinhaber dazu die Erlaubnis der unteren",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 16,
+      "text": "Jagdbehörde?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Nein Ein Landwirt, dessen Anwesen innerhalb eines Gemeinschaftsjagdreviers liegt, hat in seinem Hühnerstall mit vorher gegebener schriftlicher Erlaubnis der unteren Jagdbehörde einen Steinmarder getötet. Wem steht das Aneignungsrecht zu?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 17,
+      "text": "Steinmarder getötet. Wem steht das Aneignungsrecht zu?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Dem Landwirt",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Dem Jagdpächter",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Der Jagdgenossenschaft Welche der nachgenannten Flächen zählen nach dem Bayerischen Jagdgesetz zu den gesetzlich befriedeten Bezirken?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 18,
+      "text": "gesetzlich befriedeten Bezirken?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Nein Der Eigentümer eines Einfamilienhauses bittet Anfang Dezember den Revierinhaber, einen auf seinem Dachboden hausenden Steinmarder zu fangen. Benötigt der Revierinhaber zur Aufstellung eines Marderabzugeisens auf dem Dachboden eine Gestattung der Jagdbehörde?",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "Friedhof",
+          "correct": true
+        },
+        {
+          "letter": "d",
+          "text": "Umzäunter Fischweiher mit Geräteschuppen Sachgebiet 3 Stand: 06.08.2025",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 19,
+      "text": "Aufstellung eines Marderabzugeisens auf dem Dachboden eine Gestattung der Jagdbehörde?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Nein Darf auf forstwirtschaftlichen Kulturflächen, die zum Schutz gegen Wildverbiss eingezäunt sind, die Jagd ausgeübt werden?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 20,
+      "text": "sind, die Jagd ausgeübt werden?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Nein Eine Erfolg versprechende Jagdart auf den Steinmarder ist es, den Marder in Hofräumen umfriedeter landwirtschaftlicher Anwesen anzukirren und beim Mondschein am Kirrplatz zu erlegen. Benötigt der Revierinhaber zu einer solchen Jagdausübung neben der Zustimmung",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 21,
+      "text": "des Grundstückseigentümers auch eine Erlaubnis der Jagdbehörde?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Nein Darf ein an der Jagdausübung verhinderter Revierinhaber einen Jagdgenossen, der nicht im Besitz eines gültigen Jagdscheines ist, mit dem selbstständigen Fangen des Raubwildes in seinem Revier beauftragen?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 22,
+      "text": "seinem Revier beauftragen?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja, ohne weiteres",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Ja, aber nur mit behördlicher Sondererlaubnis",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Nein Sachgebiet 3 Stand: 06.08.2025",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 23,
+      "text": "Jagdgesetz erfüllen?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Durchführung gemeinsamer Hegemaßnahmen",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Verpachtung von Gemeinschaftsjagdrevieren",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Abstimmung der Abschussplanvorschläge der Revierinhaber",
+          "correct": true
+        },
+        {
+          "letter": "d",
+          "text": "Bestätigung oder Festsetzung des Abschussplans",
+          "correct": false
+        },
+        {
+          "letter": "e",
+          "text": "Hinwirkung auf die Erfüllung der Abschusspläne Was sind die jagdgesetzlichen Aufgaben der Hegegemeinschaften?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 24,
+      "text": "Was sind die jagdgesetzlichen Aufgaben der Hegegemeinschaften?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Durchführung der jährlichen Hegeschau",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Organisation von „Fuchswochen“",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Hegemaßnahmen in den einzelnen Jagdrevieren abstimmen",
+          "correct": true
+        },
+        {
+          "letter": "d",
+          "text": "Zusammenarbeit bei der Abschussplanung",
+          "correct": true
+        },
+        {
+          "letter": "e",
+          "text": "Hinwirken auf die Erfüllung der Abschusspläne Wer sind die stimmberechtigten Mitglieder der Hegegemeinschaft bei der Beschlussfassung über die Abschussempfehlung?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 25,
+      "text": "über die Abschussempfehlung?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Die Jagdvorsteher",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Die Jagdausübungsberechtigten",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "Die Jagdgenossen Sind die Abschussplanvorschläge der Hegegemeinschaft für die untere Jagdbehörde bindend?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 26,
+      "text": "Sind die Abschussplanvorschläge der Hegegemeinschaft für die untere Jagdbehörde bindend?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "75 ha",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "81,755 ha",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "250 ha",
+          "correct": true
+        },
+        {
+          "letter": "d",
+          "text": "300 ha",
+          "correct": false
+        },
+        {
+          "letter": "e",
+          "text": "500 ha Welche der nachgenannten Aussagen über die Jagdgenossenschaft ist richtig?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 27,
+      "text": "Welche der nachgenannten Aussagen über die Jagdgenossenschaft ist richtig?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "In einem verpachteten Gemeinschaftsjagdrevier liegt das Jagdausübungsrecht bei der Jagdgenossenschaft",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "In einem verpachteten Gemeinschaftsjagdrevier liegt das Jagdausübungsrecht beim Pächter des Reviers",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "In einem Gemeinschaftsjagdrevier liegt das Jagdausübungsrecht bei jedem einzelnen Jagdgenossen Sind Pächter von Grundflächen, die in einem Gemeinschaftsjagdrevier liegen und auf denen die Jagd ausgeübt werden kann, mit diesen Flächen Mitglieder der Jagdgenossenschaft?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 28,
+      "text": "die Jagd ausgeübt werden kann, mit diesen Flächen Mitglieder der Jagdgenossenschaft?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Nein Wer ist Jagdausübungsberechtigter in einem Gemeinschaftsjagdrevier, wenn die Jagdgenossenschaft die Jagd durch einen angestellten Jäger selbst verwaltet?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 29,
+      "text": "Wer ist Jagdausübungsberechtigter in einem Gemeinschaftsjagdrevier, wenn die Jagdgenossenschaft die Jagd durch einen angestellten Jäger selbst verwaltet?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Die Jagdgenossenschaft",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Der angestellte Jäger",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Die Gemeinde",
+          "correct": false
+        },
+        {
+          "letter": "d",
+          "text": "Jeder Jagdgast Was wird unter einem Jagdkataster verstanden?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 30,
+      "text": "Was wird unter einem Jagdkataster verstanden?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Eine Liste über den Nachweis des ausbezahlten Pachtschillings an die Jagdgenossen",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Die Niederschrift über das Abstimmungsergebnis bei der Jagdverpachtung",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Ein Verzeichnis der Jagdgenossenschaft, in dem die Eigentümer oder Nutznießer der zum Gebiet der Jagdgenossenschaft gehörenden Grundflächen und deren Größe ausgewiesen sind Sachgebiet 3",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 31,
+      "text": "Jagdrechtes im Flachland eingeräumt werden kann?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "250 ha",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "500 ha",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "1 000 ha",
+          "correct": true
+        },
+        {
+          "letter": "d",
+          "text": "2 000 ha Welche der nachgenannten Aussagen über Hoch- und Niederwildreviere sind richtig?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 32,
+      "text": "Welche der nachgenannten Aussagen über Hoch- und Niederwildreviere sind richtig?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ein Jagdrevier, in dem Rot- und Schwarzwild regelmäßig erlegt wird, ist ein Hochwildrevier",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Ein Jagdrevier, in dem regelmäßig Schwarzwild und gelegentlich Rotwild erlegt wird, ist ein Hochwildrevier",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Ein Jagdrevier, in dem regelmäßig Schwarzwild und gelegentlich Rotwild erlegt wird, ist ein Niederwildrevier Sie einigen sich mit dem Eigentümer eines Eigenjagdreviers durch Handschlag über die Verpachtung seines Niederwildreviers für die nächsten neun Jagdjahre. Ist ein wirksamer",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 33,
+      "text": "Jagdpachtvertrag zustande gekommen?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Nein Wann wird ein Jäger jagdpachtfähig?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 34,
+      "text": "Wann wird ein Jäger jagdpachtfähig?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Wenn er 3 Jahresjagdscheine gelöst hat",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Wenn er 6 Tagesjagdscheine in 6 verschiedenen Jahren gelöst hat",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Wenn er einen Jahresjagdschein besitzt und vorher während dreier Jahre einen solchen besessen hat Bei welcher zuständigen Behörde ist der Jagdpachtvertrag anzuzeigen?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 35,
+      "text": "Bei welcher zuständigen Behörde ist der Jagdpachtvertrag anzuzeigen?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Bei der unteren Jagdbehörde",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Bei der Gemeindeverwaltung",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Beim Grundbuchamt",
+          "correct": false
+        },
+        {
+          "letter": "d",
+          "text": "Beim Forstamt",
+          "correct": false
+        },
+        {
+          "letter": "e",
+          "text": "Eine Anzeige ist nicht erforderlich Sachgebiet 3 Stand: 06.08.2025",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 36,
+      "text": "Benötigt ein Jagdgast, der ohne Begleitung des Revierinhabers jagt, einen Jagderlaubnisschein?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Nein Welche Ausweispapiere muss ein allein mit der Waffe jagender Jagdgast mit sich führen?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 37,
+      "text": "Welche Ausweispapiere muss ein allein mit der Waffe jagender Jagdgast mit sich führen?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "gültiger Jagdschein",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "auf seinen Namen lautende schriftliche Jagderlaubnis",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "Waffenbesitzkarte",
+          "correct": true
+        },
+        {
+          "letter": "d",
+          "text": "Nachweis über die Teilnahme an einem Fallenlehrgang",
+          "correct": false
+        },
+        {
+          "letter": "e",
+          "text": "Nachweis über den Abschluss einer ausreichenden Jagdhaftpflichtversicherung",
+          "correct": false
+        },
+        {
+          "letter": "f",
+          "text": "Personalausweis In einem Jagdrevier mit mehreren Pächtern soll ein unentgeltlicher Jagderlaubnisschein ausgestellt werden. Wer hat den Erlaubnisschein zu unterzeichnen, wenn eine diesbezügliche Vereinbarung zwischen den Pächtern nicht besteht?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 38,
+      "text": "Vereinbarung zwischen den Pächtern nicht besteht?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Sämtliche Mitpächter",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Einer der Mitpächter zusammen mit dem Jagdvorsteher",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Der Jagdvorsteher",
+          "correct": false
+        },
+        {
+          "letter": "d",
+          "text": "Die Untere Jagdbehörde Besteht gesetzlich die Möglichkeit, dass das Betreten des Teiles eines Auerwildlebensraums, in dem das Auerwild bevorzugt brütet und die Jungen aufzieht, für eine begrenzte Zeit von der zuständigen Jagdbehörde verboten wird?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 39,
+      "text": "zuständigen Jagdbehörde verboten wird?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Nein Welche der nachgenannten Aussagen zu Wildschutzgebieten sind richtig?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 40,
+      "text": "Welche der nachgenannten Aussagen zu Wildschutzgebieten sind richtig?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Flächen, auf denen sich das Wild zum Brüten setzen oder zur Rast bevorzugt aufzuhalten pflegt, sind kraft Gesetzes Wildschutzgebiete",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Wildschutzgebiete können durch Rechtsverordnung der unteren Jagdbehörde festgelegt werden",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "In Wildschutzgebieten kann durch Rechtsverordnung das Betreten von Flächen zeitweise verboten werden, soweit es der Schutzzweck erfordert Sachgebiet 3",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 41,
+      "text": "Aufnahmen vom Aufzuchtgeschehen zu machen?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Nein Darf eine Person, die hobbymäßig Tiere filmt, das Gebiet einer Graureiherkolonie während der Brutzeit zwecks Verfilmung des Aufzuchtgeschehens ohne behördliche Erlaubnis betreten?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 42,
+      "text": "Brutzeit zwecks Verfilmung des Aufzuchtgeschehens ohne behördliche Erlaubnis betreten?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Nein Welchem der nachgenannten Zwecke dient die Jagdabgabe, die mit der Gebühr für den Jagdschein erhoben wird?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 43,
+      "text": "Welchem der nachgenannten Zwecke dient die Jagdabgabe, die mit der Gebühr für den Jagdschein erhoben wird?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Mit der Jagdabgabe werden alle Jagdscheininhaber in Bayern haftpflichtversichert",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Mit der Jagdabgabe wird der Verwaltungsaufwand der Jagdbehörden abgegolten",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Die Jagdabgabe wird zur Förderung des Jagdwesens verwendet Welche der nachgenannten Dokumente sind Voraussetzung für die erstmalige Erteilung eines Jahresjagdscheins?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 44,
+      "text": "Jahresjagdscheins?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Nein",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Ja",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Ja, in Begleitung eines Erziehungsberechtigten Welche der nachgenannten Jagdhandlungen ist mit einem Jugendjagdschein zulässig?",
+          "correct": false
+        },
+        {
+          "letter": "d",
+          "text": "Nachweis über eine bestehende Jagdgelegenheit Berechtigt der Jugendjagdschein zur Teilnahme an einer Streife auf Hasen mit fünf weiteren Schützen?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 45,
+      "text": "Welche der nachgenannten Jagdhandlungen ist mit einem Jugendjagdschein zulässig?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Einzeljagd auf Rehwild ohne Begleitung im Revier der Eltern.",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Teilnahme an einer Treibjagd als Jäger in Begleitung einer jagdlich erfahrenen Person.",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Teilnahme an einer Baujagd als Jäger mit weiteren drei Schützen. Sachgebiet 3 Stand: 06.08.2025",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 46,
+      "text": "teilzunehmen?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Rebhuhn",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Baummarder",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "Waschbär",
+          "correct": true
+        },
+        {
+          "letter": "d",
+          "text": "Marderhund",
+          "correct": true
+        },
+        {
+          "letter": "e",
+          "text": "Steinmarder",
+          "correct": true
+        },
+        {
+          "letter": "f",
+          "text": "Feldhase Die Ausbreitung des Schwarzwildes in den letzten Jahren verlangt die Ausnutzung aller Jagdmöglichkeiten auf Schwarzwild. Welche der nachgenannten Jagdarten oder -möglichkeiten sind ohne besondere behördliche Genehmigung gesetzlich zulässig?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 47,
+      "text": "Jagdmöglichkeiten auf Schwarzwild. Welche der nachgenannten Jagdarten oder -möglichkeiten sind ohne besondere behördliche Genehmigung gesetzlich zulässig?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Fuchs",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Wildkaninchen",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Dachs",
+          "correct": true
+        },
+        {
+          "letter": "d",
+          "text": "Rehwild",
+          "correct": false
+        },
+        {
+          "letter": "e",
+          "text": "Schwarzwild Darf ein Revierinhaber einen Saufang zur Reduzierung stark zu Schaden gehenden Schwarzwildes ohne jagdbehördliche Genehmigung errichten und/oder betreiben?",
+          "correct": true
+        },
+        {
+          "letter": "f",
+          "text": "Anlage von Saufängen Sachgebiet 3 Stand: 06.08.2025",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 48,
+      "text": "Schwarzwildes ohne jagdbehördliche Genehmigung errichten und/oder betreiben?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Nein Welche der nachgenannten Aussagen zur Fallenjagd sind richtig?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 49,
+      "text": "Welche der nachgenannten Aussagen zur Fallenjagd sind richtig?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Der Jagdscheininhaber benötigt für die Fangjagd einen Nachweis über die Teilnahme an einem Fallenlehrgang",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Fallen für den Lebendfang müssen so beschaffen sein, dass eine Verletzung des gefangenen Wildes ausgeschlossen ist",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "Fallen für den Totfang müssen täglich zweimal – mittags und abends – kontrolliert werden",
+          "correct": false
+        },
+        {
+          "letter": "d",
+          "text": "Wer Schlagfallen verwendet, hat dies vorher der zuständigen Jagdbehörde anzuzeigen Welche der nachgenannten Aussagen zur Kontrolle von Fallen zum Lebendfang ist richtig?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 50,
+      "text": "Welche der nachgenannten Aussagen zur Kontrolle von Fallen zum Lebendfang ist richtig?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Kontrollen der Fallen können entfallen, wenn die Falle über einen elektronischen Fangmelder verfügt, der betriebssicher ist und unverzüglich meldet, sobald ein Fangereignis stattgefunden hat und die Funktionsfähigkeit mindestens einmal täglich getestet wird oder eine tägliche Selbstüberprüfung des Fangmelders gewährleistet ist",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Alle Fallen für den Lebendfang müssen zweimal täglich kontrolliert werden",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Im Fall der Meldung eines Fangereignisses in einer Falle für den Lebendfang durch einen elektronischen Fangmelder kann die Falle erst am nächsten Tag kontrolliert werden Welche der nachgenannten Aussagen zu Drück- und Riegeljagden treffen zu?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 51,
+      "text": "Welche der nachgenannten Aussagen zu Drück- und Riegeljagden treffen zu?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Bei einer Drück- oder Riegeljagd dürfen Hunde freilaufend verwendet werden",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Rotwild darf nicht erlegt werden",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Rehwild darf nicht erlegt werden",
+          "correct": false
+        },
+        {
+          "letter": "d",
+          "text": "Es dürfen maximal 4 Treiber drücken Sachgebiet 3 Stand: 06.08.2025",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 52,
+      "text": "erlegt werden?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Schwarzwild",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Rotwild",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "Damwild",
+          "correct": true
+        },
+        {
+          "letter": "d",
+          "text": "Fuchs",
+          "correct": false
+        },
+        {
+          "letter": "e",
+          "text": "Feldhase",
+          "correct": false
+        },
+        {
+          "letter": "f",
+          "text": "Stockente Welche der nachgenannten heimischen Wildarten dürfen in Bayern nicht auf einer Treibjagd erlegt werden?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 53,
+      "text": "erlegt werden?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Rehwild",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Muffelwild",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "Gamswild",
+          "correct": true
+        },
+        {
+          "letter": "d",
+          "text": "Wildkaninchen",
+          "correct": false
+        },
+        {
+          "letter": "e",
+          "text": "Fasan",
+          "correct": false
+        },
+        {
+          "letter": "f",
+          "text": "Dachs Welche Zeit gilt als Nachtzeit im Sinne des Nachtjagdverbots des Jagdgesetzes?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 54,
+      "text": "Welche Zeit gilt als Nachtzeit im Sinne des Nachtjagdverbots des Jagdgesetzes?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "½ Stunde nach Sonnenuntergang bis ½ Stunde vor Sonnenaufgang",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "1 Stunde nach Sonnenuntergang bis 1 Stunde vor Sonnenaufgang",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "1 ½ Stunden nach Sonnenuntergang bis 1 ½ Stunden vor Sonnenaufgang Welche der nachgenannten Wildtiere dürfen im Rahmen ihrer Jagdzeit während der Nachtzeit erlegt werden?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 55,
+      "text": "erlegt werden?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Fuchs",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Fasane",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Schwarzwild",
+          "correct": true
+        },
+        {
+          "letter": "d",
+          "text": "Dachs",
+          "correct": true
+        },
+        {
+          "letter": "e",
+          "text": "Rehwild",
+          "correct": false
+        },
+        {
+          "letter": "f",
+          "text": "Waldschnepfe Sachgebiet 3 Stand: 06.08.2025",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 56,
+      "text": "grundsätzlich verboten?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Wildkaninchen",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Feldhase",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "Wildenten",
+          "correct": true
+        },
+        {
+          "letter": "d",
+          "text": "Waldschnepfen",
+          "correct": false
+        },
+        {
+          "letter": "e",
+          "text": "Möwen",
+          "correct": false
+        },
+        {
+          "letter": "f",
+          "text": "Schwarzwild In welchem Umkreis von Fütterungen darf Schalenwild in Notzeiten nicht erlegt werden?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 57,
+      "text": "In welchem Umkreis von Fütterungen darf Schalenwild in Notzeiten nicht erlegt werden?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "250 ha",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "500 ha",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "1 000 ha",
+          "correct": true
+        },
+        {
+          "letter": "d",
+          "text": "2 000 ha Darf weibliches Rehwild im November an Kirrungen erlegt werden?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 58,
+      "text": "Darf weibliches Rehwild im November an Kirrungen erlegt werden?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Nein Ist es nach den jagdgesetzlichen Bestimmungen erlaubt, Hasen und Wildenten mit der Kugel zu erlegen?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 59,
+      "text": "zu erlegen?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Nein Sachgebiet 3 Stand: 06.08.2025",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 60,
+      "text": "Welche jagdliche Handlung stellt eine Ordnungswidrigkeit dar?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Die Verwendung von Zinkschrot bei der Jagd auf Feldhasen.",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Die Verwendung von bleihaltigen Schroten bei der Jagd auf Wasserfederwild an und über Gewässern.",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "Die Verwendung von Weicheisenschrot bei der Jagd auf Wasserfederwild an und über Gewässern.",
+          "correct": false
+        },
+        {
+          "letter": "d",
+          "text": "Die Verwendung von Weicheisenschrot bei der Jagd auf Fasane. Bei einer Revierfahrt im Oktober sehen Sie ein Schmalreh in schussgerechter Entfernung. Wie dürfen Sie das Schmalreh erlegen?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 61,
+      "text": "dürfen Sie das Schmalreh erlegen?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Aus dem geöffneten Fenster des Pkw schießen",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Die Pkw-Türe aufmachen und schießen",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Aussteigen, auf dem Dach des Pkw auflegen und schießen Es gibt Tonbänder, die Wildlockrufe wiedergeben. Darf man bei der Blattjagd ein solches Tonband zum Anlocken des Rehbocks verwenden?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 62,
+      "text": "Tonband zum Anlocken des Rehbocks verwenden?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Nein Wann gilt nach den jagdgesetzlichen Bestimmungen eine Jagd als Gesellschaftsjagd?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 63,
+      "text": "Wann gilt nach den jagdgesetzlichen Bestimmungen eine Jagd als Gesellschaftsjagd?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Wenn 4 Jäger daran teilnehmen",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Wenn 2 Jäger und 3 Treiber daran teilnehmen",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "Wenn 3 Jäger und 1 Treiber daran teilnehmen Welche der nachgenannten Beschreibungen trifft im Sinne des Bayerischen Jagdgesetzes auf eine Treibjagd zu?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 64,
+      "text": "eine Treibjagd zu?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Es nehmen an einer Jagd 8 Schützen und 3 Treiber unter Verwendung von 3 Alpenländischen Dachsbracken teil",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Es nehmen an einer Jagd 10 Schützen und 5 Treiber unter Verwendung von 5 Wachtelhunden teil",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "Es nehmen an einer Jagd 5 Schützen und 1 Treiber unter Verwendung von 1 Deutsch Kurzhaar teil Sachgebiet 3",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 65,
+      "text": "zwei frei jagende Jagdterrier dabei verwendet werden?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Drückjagd",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Treibjagd",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Gesellschaftsjagd Muss bei einer Gesellschaftsjagd ein Jagdleiter bestimmt werden?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 66,
+      "text": "Muss bei einer Gesellschaftsjagd ein Jagdleiter bestimmt werden?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja, wenn mit der Kugel geschossen wird",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Ja, immer",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "Nein, jeder Schütze ist für seinen Schuss selbst verantwortlich Darf Rotwild in freier Wildbahn außerhalb der in der Ausführungsverordnung zum Bayerischen Jagdgesetz näher bestimmten Rotwildgebiete gehegt werden?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 67,
+      "text": "Jagdgesetz näher bestimmten Rotwildgebiete gehegt werden?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Nein Dem Inhaber eines 10 km von der Grenze eines Rotwildgebiets entfernten Niederwildreviers kommt beim Abendansitz im Juni ein Rot-Schmalspießer schussgerecht. Darf er ihn ohne Abschussplan erlegen?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 68,
+      "text": "Abschussplan erlegen?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Nein Welche der nachgenannten Wildarten dürfen nur aufgrund und im Rahmen eines Abschussplans erlegt werden?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 69,
+      "text": "Abschussplans erlegt werden?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Muffelwild",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Gamswild",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "Schwarzwild",
+          "correct": false
+        },
+        {
+          "letter": "d",
+          "text": "Rehwild",
+          "correct": true
+        },
+        {
+          "letter": "e",
+          "text": "Dachs",
+          "correct": false
+        },
+        {
+          "letter": "f",
+          "text": "Damwild Für welchen Zeitraum ist der Abschussplan für Rehwild aufzustellen?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 70,
+      "text": "Für welchen Zeitraum ist der Abschussplan für Rehwild aufzustellen?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Für 1 Jahr",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Für 2 Jahre",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Für 3 Jahre Sachgebiet 3 Stand: 06.08.2025",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 71,
+      "text": "sich dieses Gutachten hauptsächlich?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Jagdrevier",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Gemeinde",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Hegegemeinschaft",
+          "correct": true
+        },
+        {
+          "letter": "d",
+          "text": "Kreisgruppe Ist der Jagdvorstand der Jagdgenossenschaft bei der Aufstellung des Abschussplans für das Gemeinschaftsjagdrevier nach den gesetzlichen Vorschriften zu beteiligen?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 72,
+      "text": "Gemeinschaftsjagdrevier nach den gesetzlichen Vorschriften zu beteiligen?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Der Abschussplan wird allein vom Revierinhaber aufgestellt",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Der Abschussplan ist vom Revierinhaber im Einvernehmen mit dem Jagdvorstand aufzustellen",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "Der Abschussplan ist vom Revierinhaber im Einvernehmen mit dem Hegegemeinschaftsleiter aufzustellen",
+          "correct": false
+        },
+        {
+          "letter": "d",
+          "text": "Der Abschussplan ist vom Revierinhaber im Einvernehmen mit dem Jagdvorstand und dem zuständigen Amt für Ernährung, Landwirtschaft und Forsten aufzustellen Welche Aussagen zur Abschussplanerfüllung sind richtig?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 73,
+      "text": "Welche Aussagen zur Abschussplanerfüllung sind richtig?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ein Überschreiten des Abschussplans kann den Tatbestand einer Ordnungswidrigkeit darstellen",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Ein Unterschreiten des Abschussplans kann den Tatbestand einer Ordnungswidrigkeit darstellen",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "Der Revierinhaber ist zwar verpflichtet, den Abschussplan zu erfüllen. Die nicht ordnungsgemäße Erfüllung des Abschussplans hat aber grundsätzlich keine rechtlichen Konsequenzen Sachgebiet 3",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 74,
+      "text": "um 10% überschreiten?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja, aber nur nach vorheriger Anzeige bei der UJB.",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Ja, ohne weiteres.",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "Nein, ein vorsätzliches Überschreiten des Abschussplans stellt eine Ordnungswidrigkeit dar. Im Dezember des dritten Jahres der Abschussplanperiode für Rehwild hat ein Revierinhaber seinen Rehwildabschuss bis auf zwei Rehböcke erfüllt. Darf er ohne Genehmigung der unteren Jagdbehörde anstelle der zwei nicht erlegten Rehböcke zwei Stücke aus dem weiblichen Wild",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 75,
+      "text": "oder dem Zuwachs erlegen?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Nein Aus einem Wildgehege ist im August ein Damspießer entkommen, der sich im September in einem 8 km vom Park entfernten Revier einstellt. Darf der Revierinhaber diesen Damspießer ohne Abschussplan erlegen?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 76,
+      "text": "ohne Abschussplan erlegen?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Nein Im letzten Jahr eines dreijährigen Rehwildabschussplans hatte der Revierinhaber noch folgendes Rehwild zu erlegen: 5 St. männl. Wild – 4 St. weibl. Wild – 3 Kitze",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 77,
+      "text": "jagdrechtliche Bestimmungen verstoßen?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Nein Sie haben als Revierinhaber nach dem Abschussplan nur noch einen Gamsbock der Klasse I a frei. Beim Pirschen treffen Sie auf einen schlecht verhaarten und im Wildbret schwachen Jahrling. Dürfen Sie ihn erlegen?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 78,
+      "text": "Jahrling. Dürfen Sie ihn erlegen?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja, ohne weiteres",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Nein",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Ja, aber erst nach entsprechender Änderung des Abschussplans Sachgebiet 3 Stand: 06.08.2025",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 79,
+      "text": "gemeldet werden?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Innerhalb von drei Tagen nach der Erlegung",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Innerhalb einer Woche nach der Erlegung",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "Innerhalb von vier Wochen nach der Erlegung",
+          "correct": false
+        },
+        {
+          "letter": "d",
+          "text": "Zum Ende des Jagdjahres Am 15. August fällt ein Rotwildkalb dem Straßenverkehr zum Opfer. Das Wildbret ist für den menschlichen Verzehr nicht mehr geeignet. Muss der Revierinhaber für das überfahrene Stück eine Abschussmeldung an die untere Jagdbehörde erstatten?",
+          "correct": false
+        },
+        {
+          "letter": "e",
+          "text": "Damwild",
+          "correct": false
+        },
+        {
+          "letter": "f",
+          "text": "Muffelwild Innerhalb welcher Frist muss die Erlegung von Rotwild in die Streckenliste eingetragen werden?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 80,
+      "text": "eine Abschussmeldung an die untere Jagdbehörde erstatten?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Nein Was muss ein Revierinhaber tun, wenn in seinem Hochwildrevier ein Rotwild-Alttier überfahren und ihm abgeliefert wurde?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 81,
+      "text": "und ihm abgeliefert wurde?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Eintragung in die Streckenliste",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Meldung an die untere Jagdbehörde binnen einer Woche",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "Meldung bei der Polizei",
+          "correct": false
+        },
+        {
+          "letter": "d",
+          "text": "Meldung beim Hegegemeinschaftsleiter Ende Februar entdeckt der Revierinhaber bei einem Pirschgang eine verendete Rehgeiß und ein verendetes Rehkitz. Was ist in die Streckenliste einzutragen?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 82,
+      "text": "ein verendetes Rehkitz. Was ist in die Streckenliste einzutragen?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Beide Stücke",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Nur die Rehgeiß Sachgebiet 3 Stand: 06.08.2025",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 83,
+      "text": "Streckenliste eintragen?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Bis zum 3. Tag nach der Erlegung",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Bis zum Ablauf einer Woche nach der Erlegung",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "Bis zum Ablauf des Monats, in dem die Rehgeiß erlegt wurde",
+          "correct": false
+        },
+        {
+          "letter": "d",
+          "text": "Bis zum Ende des Jagdjahres Am 10. August wird eine Rehgeiß samt ihrem Kitz bei einem Verkehrsunfall getötet. Beide Stücke sind bei der Inbesitznahme durch den Revierinhaber nicht mehr verwertbar. Was ist in die Streckenliste einzutragen?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 84,
+      "text": "die Streckenliste einzutragen?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Innerhalb von drei Tagen nach der Erlegung",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Innerhalb einer Woche nach der Erlegung",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "Innerhalb von vier Wochen nach der Erlegung",
+          "correct": false
+        },
+        {
+          "letter": "d",
+          "text": "Zum Ende des Jagdjahres Mit welchem Tag muss die Streckenliste eines Jagdjahres durch den Revierinhaber abgeschlossen werden?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 85,
+      "text": "abgeschlossen werden?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Mit dem Tag des Auslaufens der Jagdzeit des abschussplanpflichtigen Wildes",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Mit dem letzten Tag des Jagdjahres",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "Mit dem Tag der Aufstellung des neuen Abschussplanes Sachgebiet 3 Stand: 06.08.2025",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 86,
+      "text": "Wann kann die Untere Jagdbehörde Einblick in die Streckenliste verlangen?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ausschließlich zum Ende eines Jagdjahres",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Zum Ende einer Pachtperiode",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Jederzeit Als Inhaber eines Gemeinschaftsjagdreviers haben Sie den Abschussplan für Rehwild bis auf eine Rehgeiß erfüllt. Am 20. Dezember beobachten Sie in Ihrem Revier einen abgekommenen, älteren Rehbock, dessen rechter Vorderlauf schlenkert. Zu welcher der nachgenannten",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 87,
+      "text": "Handlungsweisen sind Sie berechtigt und verpflichtet?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Sie erlegen den Rehbock und verbuchen den Abschuss auf der Streckenliste als Geißenabschuss",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Sie beantragen zunächst bei der unteren Jagdbehörde eine Abschusserlaubnis und versuchen dann, den Rehbock zu erlegen",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Sie erlegen den Rehbock und teilen dies unverzüglich der unteren Jagdbehörde mit Sie schießen am 14. Oktober einen Rehbock durch hohen Vorderlaufschuss krank. Die Nachsuche bleibt erfolglos. Am 20. Oktober haben Sie den Bock wieder schussgerecht vor sich. Wie verhalten Sie sich?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 88,
+      "text": "sich. Wie verhalten Sie sich?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Sie erlegen den Bock unverzüglich und teilen dies der unteren Jagdbehörde umgehend mit",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Sie beantragen bei der unteren Jagdbehörde den Abschuss des Bockes in der Schonzeit Bei einem Reviergang im Februar sehen Sie ein schwaches Stück Rehwild mit verschmutztem Spiegel. Das Stück wirkt abgekommen und hat eine deutlich herabgesetzte Fluchtdistanz. Wie verhalten Sie sich?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 89,
+      "text": "verhalten Sie sich?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Das Stück sofort erlegen und anschließend die Untere Jagdbehörde benachrichtigen",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Bei der Unteren Jagdbehörde zunächst einen Antrag auf Schonzeitabschuss stellen",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Den Amtstierarzt informieren und dessen Anweisung einholen Am 15. Februar erlegt der Revierinhaber in seinem Revier eine Rehgeiß mit gebrochenem Vorderlauf. Muss dies der unteren Jagdbehörde besonders mitgeteilt werden?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 90,
+      "text": "Vorderlauf. Muss dies der unteren Jagdbehörde besonders mitgeteilt werden?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja, unverzüglich nach der Erlegung",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Nein, es genügt die Eintragung in die Streckenliste und deren Vorlage nach Ablauf des Jagdjahres Sachgebiet 3",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 91,
+      "text": "Schonzeit ohne vorherige Genehmigung durch die Untere Jagdbehörde erlegen?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Nein Welche der nachgenannten Wildarten sind in Bayern ganzjährig geschont?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 92,
+      "text": "Welche der nachgenannten Wildarten sind in Bayern ganzjährig geschont?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Birkwild",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Rebhuhn",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Haselwild",
+          "correct": true
+        },
+        {
+          "letter": "d",
+          "text": "Murmeltier",
+          "correct": true
+        },
+        {
+          "letter": "e",
+          "text": "Iltis",
+          "correct": false
+        },
+        {
+          "letter": "f",
+          "text": "Dachs Welche der nachgenannten Wildarten sind in Bayern ganzjährig geschont?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 93,
+      "text": "Welche der nachgenannten Wildarten sind in Bayern ganzjährig geschont?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Türkentaube",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Turteltaube",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "Blässhuhn",
+          "correct": false
+        },
+        {
+          "letter": "d",
+          "text": "Dachs",
+          "correct": false
+        },
+        {
+          "letter": "e",
+          "text": "Haubentaucher",
+          "correct": true
+        },
+        {
+          "letter": "f",
+          "text": "Schneehase Welche der nachgenannten Wildtiere dürfen in Bayern mit Ausnahme der für die Aufzucht notwendigen Elterntiere ganzjährig bejagt werden?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 94,
+      "text": "notwendigen Elterntiere ganzjährig bejagt werden?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Fuchs",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Mauswiesel",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Kanadagans",
+          "correct": false
+        },
+        {
+          "letter": "d",
+          "text": "Frischling",
+          "correct": true
+        },
+        {
+          "letter": "e",
+          "text": "Mink Welche der nachgenannten Wildtiere dürfen in Bayern mit Ausnahme der für die Aufzucht notwendigen Elterntiere ganzjährig bejagt werden?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 95,
+      "text": "notwendigen Elterntiere ganzjährig bejagt werden?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Sumpfbiber (Nutria)",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Lachmöve",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Überläufer",
+          "correct": true
+        },
+        {
+          "letter": "d",
+          "text": "Mauswiesel Sachgebiet 3 Stand: 06.08.2025",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 96,
+      "text": "Welche Aussagen zum \"Elterntierschutz\" sind richtig?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Die Jagdausübung auf Elterntiere, die zur Aufzucht notwendig sind, ist während der Brut-, und Setzzeit nicht erlaubt",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Es sind ausschließlich Muttertiere geschützt",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Bei bestimmten Wildtierarten beteiligt sich auch das Vatertier an der Aufzucht und ist deshalb in dieser Zeit mit der Jagd zu verschonen",
+          "correct": true
+        },
+        {
+          "letter": "d",
+          "text": "Der Elterntierschutz gilt nur für Wildarten mit Schonzeit Welche Aussage bezüglich der Bejagung von Füchsen ist aus jagdrechtlicher Sicht richtig?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 97,
+      "text": "Welche Aussage bezüglich der Bejagung von Füchsen ist aus jagdrechtlicher Sicht richtig?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Bei Füchsen ist der Elterntierschutz aufgehoben",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Füchse dürfen mit Tellereisen gefangen werden",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Bei Füchsen sind beide für die Aufzucht notwendigen Elterntiere während der Zeit der Jungenaufzucht bis zum Selbstständig werden der Jungtiere mit der Jagd zu verschonen Welche Stücke dürfen bei Drückjagden auf Schwarzwild nicht geschossen werden?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 98,
+      "text": "Welche Stücke dürfen bei Drückjagden auf Schwarzwild nicht geschossen werden?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Starke Keiler",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Führende Bachen mit gestreiften Frischlingen",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "Frischlinge unter 10 kg",
+          "correct": false
+        },
+        {
+          "letter": "d",
+          "text": "starke, nicht führende Überläuferbachen Dürfen im April Jungfüchse erlegt werden?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 99,
+      "text": "Dürfen im April Jungfüchse erlegt werden?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Nein Bei der Bockjagd Anfang Mai kommt Ihnen im letzten Büchsenlicht ein ausgewachsener Fuchs. Dürfen Sie ihn erlegen?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 100,
+      "text": "Dürfen Sie ihn erlegen?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Nein Sachgebiet 3 Stand: 06.08.2025",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 101,
+      "text": "Welche der nachgenannten Wildarten haben in Bayern eine Jagdzeit?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Krickente",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Feldhase",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "Mauswiesel (Kleines Wiesel)",
+          "correct": true
+        },
+        {
+          "letter": "d",
+          "text": "Schneehase",
+          "correct": false
+        },
+        {
+          "letter": "e",
+          "text": "Murmeltier",
+          "correct": false
+        },
+        {
+          "letter": "f",
+          "text": "Knäkente Welche der nachgenannten Wildarten haben in Bayern am 1. Oktober Jagdzeit?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 102,
+      "text": "Welche der nachgenannten Wildarten haben in Bayern am 1. Oktober Jagdzeit?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Stockente",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Feldhase",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Damwild",
+          "correct": true
+        },
+        {
+          "letter": "d",
+          "text": "Habicht",
+          "correct": false
+        },
+        {
+          "letter": "e",
+          "text": "Fasan",
+          "correct": true
+        },
+        {
+          "letter": "f",
+          "text": "Steinmarder Welche der nachgenannten Wildarten haben in Bayern am 1. Oktober Jagdzeit?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 103,
+      "text": "Welche der nachgenannten Wildarten haben in Bayern am 1. Oktober Jagdzeit?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ringeltauben",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Frischlinge",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "Feldhasen",
+          "correct": false
+        },
+        {
+          "letter": "d",
+          "text": "Schmalrehe",
+          "correct": true
+        },
+        {
+          "letter": "e",
+          "text": "Rotwildkälber Welche der nachgenannten Wildtiere haben in Bayern am 1. August Jagdzeit?",
+          "correct": true
+        },
+        {
+          "letter": "f",
+          "text": "Waldschnepfe Auf welche der nachgenannten Wildtiere darf in Bayern am 16. Oktober die Jagd ausgeübt werden?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 104,
+      "text": "Welche der nachgenannten Wildtiere haben in Bayern am 1. August Jagdzeit?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Rehböcke",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Rehgeißen",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Dachse",
+          "correct": true
+        },
+        {
+          "letter": "d",
+          "text": "Stockenten Darf im Frühjahr die Jagd auf Waldschnepfen ausgeübt werden (Schnepfenstrich)?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 105,
+      "text": "Darf im Frühjahr die Jagd auf Waldschnepfen ausgeübt werden (Schnepfenstrich)?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Nein Welche der nachgenannten Wildarten dürfen bei einer Treibjagd am Hubertustag (03.11.) vom Jagdleiter zur Erlegung freigegeben werden?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 106,
+      "text": "Jagdleiter zur Erlegung freigegeben werden?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Rehwild",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Feldhase",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "Rebhuhn",
+          "correct": false
+        },
+        {
+          "letter": "d",
+          "text": "Fasan",
+          "correct": true
+        },
+        {
+          "letter": "e",
+          "text": "Schwarzwild",
+          "correct": true
+        },
+        {
+          "letter": "f",
+          "text": "Waldschnepfe Welche der nachgenannten Haarwildarten sind in Bayern ganzjährig geschont?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 107,
+      "text": "Welche der nachgenannten Haarwildarten sind in Bayern ganzjährig geschont?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Steinwild",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Muffelwild",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Schneehase",
+          "correct": true
+        },
+        {
+          "letter": "d",
+          "text": "Murmeltier",
+          "correct": true
+        },
+        {
+          "letter": "e",
+          "text": "Baummarder",
+          "correct": false
+        },
+        {
+          "letter": "f",
+          "text": "Mauswiesel Sachgebiet 3 Stand: 06.08.2025",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 108,
+      "text": "Welche der nachgenannten Haarwildarten sind in Bayern ganzjährig geschont?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Sumpfbiber (Nutria)",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Waschbär",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Marderhund",
+          "correct": false
+        },
+        {
+          "letter": "d",
+          "text": "Wildkatze",
+          "correct": true
+        },
+        {
+          "letter": "e",
+          "text": "Luchs",
+          "correct": true
+        },
+        {
+          "letter": "f",
+          "text": "Fischotter Welche Konsequenzen kann die illegale Tötung eines Luchses oder einer Wildkatze haben?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 109,
+      "text": "Welche Konsequenzen kann die illegale Tötung eines Luchses oder einer Wildkatze haben?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Eine vorsätzliche Tötung erfüllt den Tatbestand eines Strafgesetzes",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Auch eine fahrlässige Tötung erfüllt einen Straftatbestand",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "Die Strafbarkeit wegen Tötung eines Luchses oder einer Wildkatze kann den Entzug des Jagdscheins zur Folge haben",
+          "correct": true
+        },
+        {
+          "letter": "d",
+          "text": "Die Strafbarkeit wegen Tötung eines Luchses oder einer Wildkatze kann den Verlust der waffenrechtlichen Zuverlässigkeit und den Widerruf der Waffenbesitzkarte mit der Verpflichtung zur Abgabe der Jagdwaffen zur Folge haben",
+          "correct": true
+        },
+        {
+          "letter": "e",
+          "text": "Es kann eine hohe Geldbuße nach Bundeswildschutzverordnung verhängt werden Der Polizei wird die illegale Tötung eines Greifvogels angezeigt. Welche Aussagen treffen zu?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 110,
+      "text": "Der Polizei wird die illegale Tötung eines Greifvogels angezeigt. Welche Aussagen treffen zu?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Dachse",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Rehkitze",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Gamsböcke",
+          "correct": false
+        },
+        {
+          "letter": "d",
+          "text": "Steinmarder",
+          "correct": true
+        },
+        {
+          "letter": "e",
+          "text": "Füchse Sachgebiet 3 Stand: 06.08.2025",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 111,
+      "text": "Welche der nachgenannten Wildtiere dürfen in Bayern im Mai erlegt werden?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ältere Keiler",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Rehböcke",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "Iltisse",
+          "correct": false
+        },
+        {
+          "letter": "d",
+          "text": "Schmalrehe",
+          "correct": true
+        },
+        {
+          "letter": "e",
+          "text": "Überläufer Ein Jagdausübungsberechtigter erlegt am 01. August in seinem Revier einen Steinbock. Wie ist dieser Sachverhalt rechtlich zu bewerten?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 112,
+      "text": "dieser Sachverhalt rechtlich zu bewerten?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Die Handlung war rechtlich zulässig",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Die Handlung kann den Tatbestand einer Ordnungswidrigkeit erfüllen",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Die Handlung kann ein Schonzeitvergehen (Straftatbestand) darstellen Ein Jagdausübungsberechtigter erlegt am 30. Oktober in seinem Revier einen Rehbock. Wie ist dieser Sachverhalt rechtlich zu bewerten?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 113,
+      "text": "dieser Sachverhalt rechtlich zu bewerten?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Die Handlung war rechtlich zulässig",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Die Handlung kann den Tatbestand einer Ordnungswidrigkeit erfüllen",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "Die Handlung kann ein Schonzeitvergehen (Straftatbestand) darstellen Welchen der nachgenannten Einschränkungen unterliegt ein Revierinhaber, der in Jagdausrüstung befugt einen Jägernotweg benutzt?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 114,
+      "text": "Welchen der nachgenannten Einschränkungen unterliegt ein Revierinhaber, der in Jagdausrüstung befugt einen Jägernotweg benutzt?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Waffen dürfen nur ungeladen mitgeführt werden",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Die Waffe darf nur im Futteral mitgeführt werden",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Erlegtes Wild darf nur im Rucksack transportiert werden",
+          "correct": false
+        },
+        {
+          "letter": "d",
+          "text": "Hunde dürfen nur angeleint mitgeführt werden",
+          "correct": true
+        },
+        {
+          "letter": "e",
+          "text": "Eine Ausnahmegenehmigung der unteren Jagdbehörde zur Benutzung des Jägernotwegs ist mitzuführen Welche der nachgenannten Wildarten dürfen nicht ausgesetzt werden?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 115,
+      "text": "Welche der nachgenannten Wildarten dürfen nicht ausgesetzt werden?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Feldhase",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Schwarzwild",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "Fasan",
+          "correct": false
+        },
+        {
+          "letter": "d",
+          "text": "Wildkaninchen Sachgebiet 3 Stand: 06.08.2025",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 116,
+      "text": "Jahren ein Myxomatose-Seuchenzug den bisher vorhandenen Bestand vernichtet hat?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Nein",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Ja, mit Genehmigung der unteren Jagdbehörde",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Ja, ohne besondere Erlaubnis, da es sich um ein Eigenjagdrevier handelt Muss der Revierinhaber eines Gemeinschaftsjagdreviers, der auf einer Viehweide eine Kanzel errichten will, die Einwilligung des Grundstückseigentümers einholen?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 117,
+      "text": "errichten will, die Einwilligung des Grundstückseigentümers einholen?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Nein Ein vom Revierinhaber angeschossenes Schmalreh wechselt über die Reviergrenze und tut sich nach etwa 50 m in einem vom Schützen nicht mehr einsehbaren Graben nieder. Darf der Schütze nach der gesetzlichen Wildfolgeregelung mit seiner geladenen Langwaffe über die",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 118,
+      "text": "Grenze an den Graben herantreten, um den Fangschuss anzubringen?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Nein Ein Jagdgast schießt auf einen Rehbock, der schwer krank in das Nachbarrevier überwechselt und dort in Sichtweite von der Jagdgrenze verendet. Darf der Jagdgast mit einer ungeladenen Langwaffe in das Nachbarrevier gehen, um den Bock aufzubrechen, wenn zwischen den",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 119,
+      "text": "Inhabern der benachbarten Jagdreviere eine besondere Wildfolge nicht vereinbart worden ist?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Nein Ein angeschossener Fuchs verendet in einem eingezäunten mit einem Wohnhaus bebauten Grundstück am Rande der Ortschaft. Der Grundstückseigentümer verwehrt Ihnen als Revierinhaber den Zutritt und möchte den Fuchs behalten. Darf er die Herausgabe verweigern?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 120,
+      "text": "Revierinhaber den Zutritt und möchte den Fuchs behalten. Darf er die Herausgabe verweigern?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Nein Sachgebiet 3 Stand: 06.08.2025",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 121,
+      "text": "Aussagen ist richtig?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Der Revierinhaber, in dessen Revier der Hase angeschossen wurde, muss ihn an den Inhaber des Nachbarreviers abliefern",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Der Revierinhaber, in dessen Revier der Hase angeschossen wurde, darf sich den Hasen aneignen",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Der Hundeführer darf sich den Hasen aneignen Auf wessen Abschussplan ist ein Rehbock anzurechnen, der angeschossen in das Nachbarrevier überwechselt und dort verendet?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 122,
+      "text": "Nachbarrevier überwechselt und dort verendet?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Auf den Abschussplan des Reviers, in dem der Bock verendet ist",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Auf den Abschussplan des Reviers, in dem der Bock angeschossen wurde",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "Der Bock ist auf keinen Abschussplan anzurechnen; er zählt lediglich für den Gesamtabschuss der betreffenden Hegegemeinschaft Sie haben als Revierinhaber auf einen Frischling geschossen, der in Sichtweite im Nachbarrevier verendet. Wildfolge ist nicht vereinbart. Was müssen Sie tun?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 123,
+      "text": "Nachbarrevier verendet. Wildfolge ist nicht vereinbart. Was müssen Sie tun?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Der Frischling kann weggeschafft werden und ist unverzüglich dem Reviernachbarn auszuhändigen",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Der Frischling ist zu versorgen und dem Jagdvorsteher des Nachbarreviers zu übergeben",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Der Frischling ist zu versorgen und der Reviernachbar zu verständigen",
+          "correct": true
+        },
+        {
+          "letter": "d",
+          "text": "Es ist unverzüglich die untere Jagdbehörde zu informieren Bei einer Treibjagd flüchtet ein krankgeschossener Hase über die Jagdreviergrenze und bleibt im Nachbarrevier verendet liegen. Welche der nachgenannten Handlungsweisen entsprechenden gesetzlichen Wildfolgebestimmungen?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 124,
+      "text": "entsprechenden gesetzlichen Wildfolgebestimmungen?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Der Revierinhaber überschreitet mit seiner entladenen Flinte die Jagdreviergrenze und holt den Hasen",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Der Revierinhaber schickt seinen Hund zum Apportieren des Hasen",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "Der Revierinhaber verkauft den Hasen am Schluss des Jagdtags mit der übrigen Strecke an den Wildbrethändler",
+          "correct": false
+        },
+        {
+          "letter": "d",
+          "text": "Der Revierinhaber bringt den Hasen am Ende des Jagdtags dem Inhaber des betroffenen Nachbarreviers Sachgebiet 3",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 125,
+      "text": "dieser Situation vorgeschrieben?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Der Schütze baumt unverzüglich ab und sucht seinen Revierinhaber zwecks Verständigung des Nachbarrevierinhabers auf",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Der Schütze baumt ab, pirscht über die Jagdgrenze und gibt dem Bock auf 15 m Entfernung den Fangschuss auf den Träger",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Der Schütze erlegt den Rehbock von seinem Hochsitz aus, geht mit ungeladenem Gewehr über die Grenze, bricht den Bock auf, lässt ihn verblendet liegen und verständigt unverzüglich den Inhaber des Nachbarreviers",
+          "correct": true
+        },
+        {
+          "letter": "d",
+          "text": "Der Schütze erlegt den Rehbock vom Hochsitz aus, geht mit ungeladenem Gewehr über die Grenze, bricht den Bock auf und nimmt ihn mit, um ihn dem Inhaber des Nachbarreviers abzuliefern Ein Revierinhaber hat ein anerkanntes Nachsuchengespann gerufen. Während der Nachsuche",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 126,
+      "text": "geflüchtet ist. Welche der folgenden Aussagen sind korrekt?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Das vom Revierinhaber beauftragte, anerkannte Nachsuchengespann darf zum Zweck der Nachsuche die Reviergrenze ohne Zustimmung des Revierinhabers, in dessen Revier das Schalenwild zur Strecke gekommen ist, überschreiten.",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Der Nachsuchenführer darf geeignete Langwaffen führen und mit diesen schießen und das krankgeschossene Schalenwild erlegen.",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "Der Nachweis über die Brauchbarkeit des Nachsuchenhundes muss vom Nachsuchenführer mitgeführt werden.",
+          "correct": false
+        },
+        {
+          "letter": "d",
+          "text": "Ein weiterer brauchbarer Jagdhund oder ein in Ausbildung zur Nachsuche befindlicher Jagdhund dürfen mitgeführt werden.",
+          "correct": true
+        },
+        {
+          "letter": "e",
+          "text": "Der beauftragende Revierinhaber hat den Revierinhaber, in dessen Revier das Schalenwild zur Strecke gekommen ist, unverzüglich zu benachrichtigen und das Schalenwild zu versorgen. Bei welchen der nachgenannten Jagdarten ist die Verwendung brauchbarer Jagdhunde in",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 127,
+      "text": "genügender Zahl gesetzlich vorgeschrieben?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Beim Ansitz auf Rotwild",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Beim Enteneinfall am Wasser",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "Bei der Gamspirsch",
+          "correct": false
+        },
+        {
+          "letter": "d",
+          "text": "Bei der Suche über die Felder auf Hasen",
+          "correct": true
+        },
+        {
+          "letter": "e",
+          "text": "Bei einer Drückjagd auf Füchse",
+          "correct": true
+        },
+        {
+          "letter": "f",
+          "text": "Beim Nachtansitz auf Schwarzwild Sachgebiet 3 Stand: 06.08.2025",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 128,
+      "text": "genügender Zahl gesetzlich vorgeschrieben?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Bei der Gamspirsch",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Beim Hasenauslauf (Ansitz auf Hasen)",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Beim Enteneinfall am Wasser",
+          "correct": true
+        },
+        {
+          "letter": "d",
+          "text": "Bei der Lockjagd auf den Fuchs",
+          "correct": false
+        },
+        {
+          "letter": "e",
+          "text": "Bei einer Treibjagd auf Schwarzwild",
+          "correct": true
+        },
+        {
+          "letter": "f",
+          "text": "Bei einer Drückjagd auf Rehwild Nach einem Ansitz gehen Sie auf dem Rückweg über einen Acker in der Absicht, evtl. einen aufstehenden Hasen zu erlegen. Müssen Sie dazu einen brauchbaren Jagdhund mitführen?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 129,
+      "text": "aufstehenden Hasen zu erlegen. Müssen Sie dazu einen brauchbaren Jagdhund mitführen?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Nein, weil es sich um keine Gesellschaftsjagd handelt",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Es reicht, wenn der Jagdaufseher einen brauchbaren Hund verfügbar hält",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Ein brauchbarer Hund muss mitgeführt werden Berechtigt eine für den Abschuss von Niederwild ausgestellte schriftliche Jagderlaubnis den Jagdgast auch zur Tötung wildernder Hunde und Katzen?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 130,
+      "text": "Jagdgast auch zur Tötung wildernder Hunde und Katzen?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Nein Sind Sie als Inhaber eines unentgeltlichen Jagderlaubnisscheins zum Abschuss eines Rehbocks Jagdschutzberechtigter im Sinne des Jagdgesetzes?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 131,
+      "text": "Rehbocks Jagdschutzberechtigter im Sinne des Jagdgesetzes?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Nein Ab welcher Entfernung vom nächsten bewohnten Gebäude gilt eine Katze als wildernd im Sinne des Jagdgesetzes?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 132,
+      "text": "Sinne des Jagdgesetzes?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Nein Sachgebiet 3 Stand: 06.08.2025",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "Mehr als 500 m Müssen in tollwutfreien Bezirken Spaziergänger im Revier ihre Hunde grundsätzlich angeleint führen?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 133,
+      "text": "entfernt, eine Katze. Darf er sie erlegen?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Nein Welche der nachgenannten Wildarten verursachen Wildschäden, die nach dem Bundesjagdgesetz zu ersetzen sind?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 134,
+      "text": "Bundesjagdgesetz zu ersetzen sind?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Schwarzwild",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Muffelwild",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "Dachs",
+          "correct": false
+        },
+        {
+          "letter": "d",
+          "text": "Feldhase",
+          "correct": false
+        },
+        {
+          "letter": "e",
+          "text": "Graureiher",
+          "correct": false
+        },
+        {
+          "letter": "f",
+          "text": "Fasan Welche der nachgenannten Wildarten verursachen Wildschäden, die nach dem Bundesjagdgesetz zu ersetzen sind?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 135,
+      "text": "Welche der nachgenannten Wildarten verursachen Wildschäden, die nach dem Bundesjagdgesetz zu ersetzen sind?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Rotwild",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Rehwild",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "Wildkaninchen",
+          "correct": true
+        },
+        {
+          "letter": "d",
+          "text": "Ringeltaube",
+          "correct": false
+        },
+        {
+          "letter": "e",
+          "text": "Graugans",
+          "correct": false
+        },
+        {
+          "letter": "f",
+          "text": "Rebhuhn Darf der Eigentümer oder Nutzungsberechtigte eines Grundstücks zur Verhütung von Wildschäden Wild von seinem Grundstück in einer Nacht verscheuchen, von der ihm aufgrund einer Benachrichtigung des Revierinhabers bekannt ist, dass dieser sich in der betreffenden Nacht am Grundstück zur Jagdausübung ansetzen will?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 136,
+      "text": "Nacht am Grundstück zur Jagdausübung ansetzen will?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Nein Darf der Grundstückseigentümer zur Verhütung von Wildschäden Wild von seinem Grundstück verscheuchen?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 137,
+      "text": "verscheuchen?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Nein Sachgebiet 3 Stand: 06.08.2025",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 138,
+      "text": "erlegen hat?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Jagdpächter",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Jagdgenossenschaft",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "Jagdpächter und Jagdgenossenschaft",
+          "correct": false
+        },
+        {
+          "letter": "d",
+          "text": "Die Gemeinde Innerhalb welcher gesetzlichen Frist muss der Geschädigte einen Wildschaden an seinen Ackerfrüchten bei der zuständigen Gemeinde anmelden, nachdem er von dem Schaden Kenntnis erhalten hat, wenn er Schadensersatz mit Aussicht auf Erfolg geltend machen will?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 139,
+      "text": "Kenntnis erhalten hat, wenn er Schadensersatz mit Aussicht auf Erfolg geltend machen will?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Innerhalb von 2 Tagen",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Innerhalb 1 Woche",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "Innerhalb 1 Monats",
+          "correct": false
+        },
+        {
+          "letter": "d",
+          "text": "Bis zu Beginn der Ernte Zu welchen im Bundesjagdgesetz vorgegebenen Terminen eines Jahres müssen spätestens Wildschäden an forstwirtschaftlich genutzten Grundstücken angemeldet werden, um den Ersatz des Schadens erlangen zu können?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 140,
+      "text": "Ersatz des Schadens erlangen zu können?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "1. Januar",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "1. April",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "1. Mai",
+          "correct": true
+        },
+        {
+          "letter": "d",
+          "text": "15. Mai",
+          "correct": false
+        },
+        {
+          "letter": "e",
+          "text": "1. Oktober",
+          "correct": true
+        },
+        {
+          "letter": "f",
+          "text": "10. Oktober Sachgebiet 3 Stand: 06.08.2025",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 141,
+      "text": "den gesetzlichen Vorschriften ein Anspruch auf Ersatz des Wildschadens?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Nein Wer muss den Wildschaden ersetzen, den Damwild, das aus einem landwirtschaftlichen Damwildgehege ausgebrochen ist, am nächsten Tag in der Nachbarjagd anrichtet?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 142,
+      "text": "Damwildgehege ausgebrochen ist, am nächsten Tag in der Nachbarjagd anrichtet?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Die Jagdgenossenschaft der Nachbarjagd",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Der Jagdpächter der Nachbarjagd, wenn er den Wildschadensersatz im Jagdpachtvertrag übernommen hat",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Der aufsichtspflichtige Halter des Wildgeheges In einem Gemeinschaftsjagdrevier kommen als Hauptbaumarten Fichten, Tannen und Rotbuchen vor. Ein Waldbauer hat 100 Lärchen gepflanzt. Da die Lärchen nicht geschützt wurden, sind an diesen starke Verbiss- und Fegeschäden durch Rehwild entstanden. Muss",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 143,
+      "text": "nach den gesetzlichen Vorschriften Wildschadensersatz geleistet werden?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Nein Dachse verursachen in einem milchreifen Maisfeld Schaden. Handelt es sich dabei um einen nach dem Gesetz ersatzpflichtigen Wildschaden?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 144,
+      "text": "nach dem Gesetz ersatzpflichtigen Wildschaden?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Nein Eine Rotte Schwarzwild richtet an einem mit Plastikfolie abgedeckten und mit Reifen beschwerten Maisbehelfssilo eines Jagdgenossen Schaden an. Hat der Jagdgenosse nach den gesetzlichen Vorschriften Anspruch auf Ersatz von Wildschaden?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 145,
+      "text": "gesetzlichen Vorschriften Anspruch auf Ersatz von Wildschaden?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Nein Muss ein durch einen Steinmarder an einem Haushuhnbestand angerichteter Schaden nach den gesetzlichen Bestimmungen ersetzt werden?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 146,
+      "text": "den gesetzlichen Bestimmungen ersetzt werden?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Nein Sachgebiet 3 Stand: 06.08.2025",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 147,
+      "text": "gesetzlichen Bestimmungen ersetzt werden?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Nein Feldhasen haben eine in der freien Feldflur liegende Obstbaumkultur durch Abnagen der Rinde schwer beschädigt. Ist der Jagdpächter, der die gesetzliche Wildschadensersatzpflicht der Jagdgenossenschaft laut Jagdpachtvertrag übernommen hat, schadensersatzpflichtig?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 148,
+      "text": "Jagdgenossenschaft laut Jagdpachtvertrag übernommen hat, schadensersatzpflichtig?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Nein Eine Rotte Schwarzwild dringt innerhalb eines Gemeinschaftsjagdreviers in einen unmittelbar an ein landwirtschaftliches Anwesen anschließenden, umfriedeten Hausgarten ein und verursacht dort erheblichen Wildschaden. Ist der Jagdpächter zum Ersatz dieses Schadens",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 149,
+      "text": "übernommen hat?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Nein Ein Jagdgast hat durch Herausschleifen eines Rehbocks aus der Mitte eines Weizenfeldes einen empfindlichen Jagdschaden verursacht. Durch Heraustragen des Bocks mit dem Rucksack wäre der Schaden zu vermeiden gewesen. Wer muss nach den jagdgesetzlichen",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 150,
+      "text": "Vorschriften dem Grundstückseigentümer den Schaden ersetzen?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Der Jagdgast",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Der Revierinhaber",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "Die Jagdgenossenschaft Welche der nachgenannten Aufgaben hat der Jagdbeirat bei der unteren Jagdbehörde?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 151,
+      "text": "Welche der nachgenannten Aufgaben hat der Jagdbeirat bei der unteren Jagdbehörde?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Nein Wem steht das Aneignungsrecht an einem auf einer Kreisstraße überfahrenen Reh zu?",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Jäger",
+          "correct": true
+        },
+        {
+          "letter": "d",
+          "text": "Forstwirtschaft",
+          "correct": true
+        },
+        {
+          "letter": "e",
+          "text": "Jagdgenossenschaften",
+          "correct": true
+        },
+        {
+          "letter": "f",
+          "text": "Reitsportvereine Ist ein Spaziergänger verpflichtet, einen Hochsitz nach Aufforderung des Revierinhabers zu verlassen?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 152,
+      "text": "Wem steht das Aneignungsrecht an einem auf einer Kreisstraße überfahrenen Reh zu?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Der Straßenbauverwaltung",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Stets dem Revierinhaber, in dessen Revier die Polizeistation sich befindet, bei der das Reh abgegeben wurde",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Dem Revierinhaber, durch dessen Revier die Straße führt, auf der das Reh überfahren wurde",
+          "correct": true
+        },
+        {
+          "letter": "d",
+          "text": "Dem Kraftfahrer, der durch den Unfall erheblichen Schaden erlitten hat Der Führer eines Kraftfahrzeugs hat ein Stück Schalenwild angefahren und offensichtlich schwer verletzt. Er ist nach dem Bayerischen Jagdgesetz verpflichtet, dies unverzüglich anzuzeigen. Bei welchen der nachgenannten Stellen hat der Autofahrer (wahlweise) dies anzuzeigen?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 153,
+      "text": "schwer verletzt. Er ist nach dem Bayerischen Jagdgesetz verpflichtet, dies unverzüglich anzuzeigen. Bei welchen der nachgenannten Stellen hat der Autofahrer (wahlweise) dies anzuzeigen?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Straßenbauamt",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Gemeindeverwaltung",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Nächst erreichbare Polizeidienststelle",
+          "correct": true
+        },
+        {
+          "letter": "d",
+          "text": "Untere Jagdbehörde",
+          "correct": false
+        },
+        {
+          "letter": "e",
+          "text": "Jagdvorsteher",
+          "correct": false
+        },
+        {
+          "letter": "f",
+          "text": "Revierinhaber Wer darf sich in einem Gemeinschaftsjagdrevier Abwurfstangen aneignen?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 154,
+      "text": "Wer darf sich in einem Gemeinschaftsjagdrevier Abwurfstangen aneignen?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Jede Person",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Der Jagdausübungsberechtigte",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "Der Eigentümer eines unbefriedeten Waldgrundstücks, auf dem die Stange gefunden wird Sachgebiet 3 Stand: 06.08.2025",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 155,
+      "text": "Abwurfstangen durch Dritte zulässig ist?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Der Sammler muss hierzu eine schriftliche Erlaubnis des Revierinhabers haben",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Der Sammler bedarf außer der schriftlichen Erlaubnis des Revierinhabers auch noch eines gültigen Jagdscheins",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Der Sammler bedarf nur eines gültigen Jagdscheins Sie haben eine Jagderlaubnis für den Abschuss eines Rehbocks. Beim Ansitz am 1. Juli erlegen Sie einen Keiler. Wie ist dieser Sachverhalt rechtlich zu bewerten?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 156,
+      "text": "erlegen Sie einen Keiler. Wie ist dieser Sachverhalt rechtlich zu bewerten?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ihre Handlung kann den Tatbestand eines Schonzeitvergehens erfüllen",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Ihre Handlung kann den Straftatbestand der Wilderei erfüllen",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "Ihre Handlung kann weder den Tatbestand eines Schonzeitvergehens noch den Straftatbestand der Wilderei erfüllen Ein Spaziergänger führt seinen Hund unangeleint im Wald aus. Welche der nachgenannten Aussagen ist richtig?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 157,
+      "text": "Aussagen ist richtig?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Der Spaziergänger erfüllt den Tatbestand einer Ordnungswidrigkeit allein dadurch, dass er den Hund nicht angeleint hat",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Eine Ordnungswidrigkeit kommt erst in Betracht, wenn der Spaziergänger den Hund unbeaufsichtigt frei laufen lässt",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "Das freie unbeaufsichtigte Umherlaufenlassen von Hunden ist im Revier zwar unerwünscht, es ist rechtlich aber zulässig Welche der nachgenannten Jagdhandlungen sind verboten?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 158,
+      "text": "Welche der nachgenannten Jagdhandlungen sind verboten?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Schuss mit Flintenlaufgeschoss auf Rehwild",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Schuss mit Kaliber 5,6 x 57 auf einen Frischling Welche der nachgenannten Mindestanforderungen muss eine Büchsenpatrone erfüllen, um auf Rotwild verwendet werden zu können?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 159,
+      "text": "Rotwild verwendet werden zu können?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Kaliber 5,6 mm und darüber",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Kaliber 6,5 mm und darüber",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "E 100 = 1 000 Joule",
+          "correct": false
+        },
+        {
+          "letter": "d",
+          "text": "E 100 = 2 000 Joule",
+          "correct": true
+        },
+        {
+          "letter": "e",
+          "text": "E 0 = 200 Joule Sachgebiet 3 Stand: 06.08.2025",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 160,
+      "text": "ballistischen Daten zu verwenden?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Rehwild",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "c) Kaliber",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "Gamswild",
+          "correct": false
+        },
+        {
+          "letter": "d",
+          "text": "Schwarzwild Welche der nachgenannten Büchsenpatronen darf zur Jagd auf Schwarzwild verwendet werden?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 161,
+      "text": "Welche der nachgenannten Büchsenpatronen dürfen zur Jagd auf Rehwild verwendet werden?",
+      "options": [
+        {
+          "letter": "b",
+          "text": ".222 Remington 3,24 g",
+          "correct": true
+        },
+        {
+          "letter": "d",
+          "text": ".243 Winchester 6,50 g",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 162,
+      "text": "Welche der nachgenannten Büchsenpatronen sind für die Jagd auf Gamswild zugelassen?",
+      "options": [
+        {
+          "letter": "b",
+          "text": "6,5 x 57 6,00 g",
+          "correct": true
+        },
+        {
+          "letter": "d",
+          "text": "6,5 x 57 R 6,00 g",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 163,
+      "text": "Dürfen Sie ein Muffellamm mit einer Büchsenpatrone im Kaliber 5,6 x 57 R erlegen?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Nein Dürfen Sie einen Fuchs auf 50 m Entfernung mit einer Büchse im Kaliber .22 Winchester Magnum erlegen?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 164,
+      "text": "Magnum erlegen?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Nein Dürfen Sie einen Frischling mit der Büchsenpatrone 5,6 x 57, KS-Geschoss, Geschossgewicht 4,8 g, E 100 2 031 Joule erlegen?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 165,
+      "text": "4,8 g, E 100 2 031 Joule erlegen?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Nein Welche der nachgenannten jagdbaren Wildarten dürfen Sie mit einer Büchse im Kaliber .243 Win. (6,2 x 51) erlegen?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 166,
+      "text": "Win. (6,2 x 51) erlegen?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Schmalreh",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Frischling",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Gamskitz",
+          "correct": false
+        },
+        {
+          "letter": "d",
+          "text": "Fuchs Welche der nachgenannten Büchsenpatronen dürfen auf Rotwild verwendet werden? Kaliber",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 167,
+      "text": "Welche der nachgenannten Büchsenpatronen dürfen auf Rotwild verwendet werden?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "6,5 x 57 7,00 g",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 168,
+      "text": "Welche der nachgenannten Büchsenpatronen sind für die Jagd auf Rehwild zulässig?",
+      "options": [
+        {
+          "letter": "a",
+          "text": ".22 Hornet",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": ".243 Winchester",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": ".22 Winchester Magnum",
+          "correct": false
+        },
+        {
+          "letter": "d",
+          "text": "5,6 x 50 R Magnum Sachgebiet 3 Stand: 06.08.2025",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 169,
+      "text": "Darf ein Keiler mit einem Flintenlaufgeschoss erlegt werden?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Patronen mit Flintenlaufgeschossen („Brenneke“)",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Patronen mit Posten",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Patronen mit Würfelschroten Dürfen Sie für die Jagd auf Wildenten eine Selbstladeflinte verwenden, welche mit 5 Patronen geladen ist?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 170,
+      "text": "geladen ist?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Nein Welche der nachgenannten Waffen darf bei der Jagdausübung nicht verwendet werden?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 171,
+      "text": "Welche der nachgenannten Waffen darf bei der Jagdausübung nicht verwendet werden?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Selbstladeflinte mit einer Magazinkapazität von 5 Patronen",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Repetierbüchse mit einer Magazinkapazität von 5 Patronen",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Halbautomatische Büchse, die mit mehr als drei Patronen geladen ist Darf man für die Suchjagd auf Feldhasen und Fasanen eine Selbstladeflinte verwenden, aus welcher, ohne nachzuladen, 3 Schüsse abgegeben werden können?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 172,
+      "text": "welcher, ohne nachzuladen, 3 Schüsse abgegeben werden können?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Nein Dürfen Sie bei einer Treibjagd auf Hasen und Fasanen eine Selbstladeflinte verwenden, deren Magazin vier Patronen aufnehmen kann?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 173,
+      "text": "Magazin vier Patronen aufnehmen kann?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Nein Sachgebiet 3 Stand: 06.08.2025",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 174,
+      "text": "Welche Aussagen sind zutreffend?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Beim Ansitz an der Kirrung dürfen Sie eine Selbstladebüchse mit einer Magazinkapazität von vier Patronen verwenden",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Bei einer Erntejagd auf Schwarzwild dürfen Sie Ihre Selbstladeflinte mit fünf Flintenlaufgeschoss-Patronen laden",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Entscheidend für die Verwendung einer jagdlichen Selbstladewaffe ist allein der tatsächliche Ladezustand Unter welcher der nachgenannten Voraussetzungen ist es gestattet, zur Abgabe eines Fangschusses auf Schalenwild Kurzwaffen zu verwenden?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 175,
+      "text": "Fangschusses auf Schalenwild Kurzwaffen zu verwenden?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Das zu erlegende Wild darf nicht weiter als 8 m vom Schützen entfernt sein",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Die Mündungsenergie des Geschosses (E0) muss mindestens 200 Joule betragen Zu welchen der nachgenannten Zwecke dürfen Inhaber eines gültigen Jagdscheins ihre Kurzwaffe gebrauchen, wenn die Mündungsenergie der verwendeten Geschosse mindestens 200 Joule beträgt?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 176,
+      "text": "200 Joule beträgt?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Schuss auf gesundes Schwarzwild im Maisfeld auf kurze Entfernung",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Schuss auf den gegrabenen Fuchs oder Dachs",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "Fangschuss auf krankes Schalenwild, das sich nicht mehr fortbewegen kann Wie hoch muss mindestens die Mündungsenergie eines Geschosses sein, um mit einer Kurzwaffe einen Fangschuss auf krankes Schalenwild abgeben zu dürfen?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 177,
+      "text": "Kurzwaffe einen Fangschuss auf krankes Schalenwild abgeben zu dürfen?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "100 Joule",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "200 Joule",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "500 Joule",
+          "correct": false
+        },
+        {
+          "letter": "d",
+          "text": "1 000 Joule Was sind Aufgaben der öffentlichen Hegeschauen?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 178,
+      "text": "Was sind Aufgaben der öffentlichen Hegeschauen?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Information über die Entwicklung der Wildschadenssituation und der Waldverjüngung",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Mitgliederversammlung und Rechenschaftsbericht der jagdlichen Vereinigungen",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Bericht über die Erfüllung der Abschusspläne und Entwicklung der Wildbestände",
+          "correct": true
+        },
+        {
+          "letter": "d",
+          "text": "Prämieren der stärksten erlegten Trophäenträger",
+          "correct": false
+        },
+        {
+          "letter": "e",
+          "text": "Information über durchgeführte Maßnahmen der Lebensraumverbesserung Sachgebiet 3 Stand: 06.08.2025",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 179,
+      "text": "Wann liegt eine missbräuchliche Wildfütterung des Rehwilds vor?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Wenn bei Frost und Schnee nur Heu vorgelegt wird",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Wenn überwiegend Kraftfutter mit hohem Stärkegehalt gereicht wird",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "Wenn zur Vermeidung von Wildschäden außerhalb der Notzeit gefüttert wird",
+          "correct": true
+        },
+        {
+          "letter": "d",
+          "text": "Wenn durch die Fütterung allgemein das Hegeziel gefährdet wird",
+          "correct": true
+        },
+        {
+          "letter": "e",
+          "text": "Wenn trotz Fütterung kümmernde Stücke erlegt werden Wann ist eine Fütterung des Schalenwilds nur zulässig und gleichzeitig verpflichtend?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 180,
+      "text": "Wann ist eine Fütterung des Schalenwilds nur zulässig und gleichzeitig verpflichtend?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "In Notzeiten",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Zur Vermeidung von Wildschäden",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Wenn die Wildbret- und Trophäengewichte abnehmen Sachgebiet 3 Stand: 06.08.2025",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 181,
+      "text": "getötet werden darf?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Tierschutzgesetz",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Bundesjagdgesetz",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Bundeswildschutzverordnung",
+          "correct": false
+        },
+        {
+          "letter": "d",
+          "text": "Bayerisches Jagdgesetz Welche Regelungen sind im Tierschutzgesetz getroffen?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 182,
+      "text": "Welche Regelungen sind im Tierschutzgesetz getroffen?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Sie betreffen sowohl Haustiere wie auch wildlebende Tiere",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Sie betreffen nur Haustiere Welche der nachgenannten Aussagen ist richtig?",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Für Jagdhunde",
+          "correct": true
+        },
+        {
+          "letter": "d",
+          "text": "Für Tiere, die dem Naturschutzrecht unterliegen",
+          "correct": true
+        },
+        {
+          "letter": "e",
+          "text": "Ausschließlich für Tiere, die nicht dem Jagdrecht unterliegen Betreffen die Bestimmungen des Tierschutzgesetzes nur Tiere, die sich in menschlicher Obhut befinden (Haustiere), oder auch wildlebende Tiere, also auch dem Jagdrecht unterliegende Tierarten?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 183,
+      "text": "Welche der nachgenannten Aussagen ist richtig?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Die weidgerechte, den jagdrechtlichen Vorschriften entsprechende Ausübung der Jagd stellt nach dem Tierschutzgesetz einen vernünftigen Grund zum Töten von Tieren dar",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Jegliche Jagdhandlung stellt nach dem Tierschutzgesetz einen vernünftigen Grund zum Töten von Tieren dar Sachgebiet 3",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 184,
+      "text": "Straftat darstellen. Welche der nachgenannten Aussagen ist richtig?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Sie erschießen den Hund im Hof des Eigentümers",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Sie nehmen den Hund mit ins Revier und erschießen ihn dort mit Ihrer Jagdwaffe",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Sie weisen das Ansinnen zurück Ihr Jagdhund ist unheilbar krank. Welche der nachgenannten Aussagen ist richtig?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 185,
+      "text": "Ihr Jagdhund ist unheilbar krank. Welche der nachgenannten Aussagen ist richtig?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Sie dürfen den Hund auf Ihrem Grundstück ohne weiteres mit einer geeigneten Jagdwaffe töten",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Sie bringen den Hund zum Tierarzt, damit er dort eingeschläfert werden kann",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "Ein befreundeter Jagdscheininhaber darf den Hund im Revier erschießen Ihr Jagdhund ist schussscheu und damit für die Jagd unbrauchbar. Welche legalen Möglichkeiten haben Sie?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 186,
+      "text": "Möglichkeiten haben Sie?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Sie geben den Hund an Nicht-Jäger ab",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Sie bringen den Hund zum Tierarzt, damit er dort eingeschläfert wird",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Sie erschießen den Hund mit einer geeigneten Jagdwaffe im Revier Auf einem Waldparkplatz beobachten Sie, wie eine Person ihre Katze zurücklassen möchte, um sich ihrer zu entledigen. Welche der nachgenannten Aussagen ist richtig?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 187,
+      "text": "sich ihrer zu entledigen. Welche der nachgenannten Aussagen ist richtig?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Es handelt sich hierbei um einen Verstoß gegen das Tierschutzgesetz",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Das Aussetzen von Hauskatzen ist zwar im Revier unerwünscht, aber rechtlich zulässig",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Unabhängig von der Entfernung zum nächsten Gebäude ist der Revierinhaber aus tierschutzrechtlichen Gründen verpflichtet, die Katze zu töten Sachgebiet 3",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 188,
+      "text": "des Betretens der freien Natur?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Skifahren",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Aufstellen von Wohnwagen",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Zelten",
+          "correct": false
+        },
+        {
+          "letter": "d",
+          "text": "Betreten von Waldbeständen zum Pilze suchen Ist in einem Fichtenaltbestand abseits der Straßen und Wege das Reiten erlaubt?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 189,
+      "text": "Ist in einem Fichtenaltbestand abseits der Straßen und Wege das Reiten erlaubt?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Nein Welche der nachgenannten Aussagen zur Naturschutzwacht sind richtig?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 190,
+      "text": "Welche der nachgenannten Aussagen zur Naturschutzwacht sind richtig?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Die Angehörigen der Naturschutzwacht haben u. a. die hoheitliche Aufgabe, bestimmte Zuwiderhandlungen gegen Rechtsvorschriften, die den Schutz der Natur regeln, zu verhüten",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Die Angehörigen der Naturschutzwacht sind zur Erfüllung ihrer Aufgaben berechtigt, rechtmäßige Jagdhandlungen einzuschränken",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Die Angehörigen der Naturschutzwacht sind zur Erfüllung ihrer Aufgaben berechtigt, eine Person zur Feststellung ihrer Personalien anzuhalten Was versteht man unter sog. FFH-Gebieten?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 191,
+      "text": "Was versteht man unter sog. FFH-Gebieten?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "FFH-Gebiete sind besondere Schutzgebiete nach der EU-Richtlinie zur Erhaltung der natürlichen Lebensräume sowie der wildlebenden Tiere und Pflanzen",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "FFH-Gebiete sind Flächen von Gemeinschaftsjagdrevieren mit rein landwirtschaftlicher Nutzung",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Als FFH-Gebiete bezeichnet man die Flächen in Bayern, die in das Schutzwaldverzeichnis bei der unteren Forstbehörde eingetragen sind Welche der nachgenannten Aussagen zu Naturschutzgebieten ist richtig?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 192,
+      "text": "Welche der nachgenannten Aussagen zu Naturschutzgebieten ist richtig?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Als Naturschutzgebiete können Gebiete festgesetzt werden, in denen ein besonderer Schutz von Natur und Landschaft zur Erhaltung von Lebensgemeinschaften bestimmter wildlebender Tierarten erforderlich ist",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "In Naturschutzgebieten ist die Jagdausübung kraft Gesetzes grundsätzlich verboten Ist ein Revierinhaber ohne weiteres berechtigt, einen in seinem Revier verendet gefundenen Auerhahn an einen Präparator zu verkaufen?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 193,
+      "text": "Auerhahn an einen Präparator zu verkaufen?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Nein Sachgebiet 3 Stand: 06.08.2025",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 194,
+      "text": "erlaubt. Welche der nachgenannten Personen sind hierzu befugt?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ein Angehöriger der zuständigen Naturschutzwacht",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Der zuständige bestätigte Fischereiaufseher",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Der Revierinhaber",
+          "correct": true
+        },
+        {
+          "letter": "d",
+          "text": "Ein im betroffenen Revier zur Jagdausübung befugter Jagdgast Ein Revierinhaber findet in seinem Revier einen verendeten Uhu. Darf er ihn sich aneignen und für private Zwecke präparieren lassen?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 195,
+      "text": "für private Zwecke präparieren lassen?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Nein Ein Revierinhaber findet in seinem Revier eine verendete Waldohreule und nimmt sie an sich. Darf er sie für private Zwecke präparieren lassen?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 196,
+      "text": "Darf er sie für private Zwecke präparieren lassen?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Nein Welche der nachgenannten Aussagen zum Reiten ist richtig?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 197,
+      "text": "Welche der nachgenannten Aussagen zum Reiten ist richtig?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Das Reiten ist im Wald grundsätzlich nur auf Straßen und geeigneten Wegen zulässig",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "In lichten Waldbeständen darf auch abseits der Wege und Straßen geritten werden",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Das Reiten über bestellte Wildäcker ist zulässig Welche der nachgenannten Aussagen zum Verhalten im Wald sind richtig?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 198,
+      "text": "Welche der nachgenannten Aussagen zum Verhalten im Wald sind richtig?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Wer unbefugt in einem fremden Wald zeltet, begeht eine Ordnungswidrigkeit",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Wer unbefugt in einem fremden Wald Vorrichtungen, die zum Schutz verhängter Waldorte (Kulturzaun) dienen, unwirksam macht, begeht eine Ordnungswidrigkeit",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "Wer in einem fremden Wald für seinen persönlichen Verzehr Pilze sammelt, begeht eine Ordnungswidrigkeit Eine neu angelegte Wildwiese wird von einem Maulwurf stark zerwühlt. Dürfen Sie diesen Maulwurf ohne behördliche Erlaubnis fangen und töten?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 199,
+      "text": "Maulwurf ohne behördliche Erlaubnis fangen und töten?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Nein Sachgebiet 3 Stand: 06.08.2025",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 200,
+      "text": "Aufzucht der Küken Eier der Roten Waldameise sammeln und verfüttern?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Nein Welche der nachgenannten nicht dem Jagdrecht unterliegenden, in Bayern vorkommenden Säugetiere, dürfen grundsätzlich nicht getötet werden?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 201,
+      "text": "Säugetiere, dürfen grundsätzlich nicht getötet werden?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Igel",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Fledermaus",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "Schermaus",
+          "correct": false
+        },
+        {
+          "letter": "d",
+          "text": "Wanderratte",
+          "correct": false
+        },
+        {
+          "letter": "e",
+          "text": "Hamster Welche der nachgenannten nicht dem Jagdrecht unterliegenden, in Bayern vorkommenden Säugetiere, dürfen grundsätzlich nicht getötet werden?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 202,
+      "text": "Säugetiere, dürfen grundsätzlich nicht getötet werden?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Haselmaus",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Rötelmaus",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Feldmaus",
+          "correct": false
+        },
+        {
+          "letter": "d",
+          "text": "Baumschläfer Welche der nachgenannten nicht dem Jagdrecht unterliegenden, in Bayern vorkommenden Säugetiere, dürfen grundsätzlich nicht getötet werden?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 203,
+      "text": "Säugetiere, dürfen grundsätzlich nicht getötet werden?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Gartenschläfer",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Hausratte",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Eichhörnchen",
+          "correct": true
+        },
+        {
+          "letter": "d",
+          "text": "Erdmaus Wann dürfen Rohr- und Schilfbestände gemäht werden?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 204,
+      "text": "Wann dürfen Rohr- und Schilfbestände gemäht werden?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "1. Oktober bis 28. Februar",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "1. August bis 28. Februar",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "1. September bis 31. März Sachgebiet 3 Stand: 06.08.2025",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 205,
+      "text": "gemäht werden?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "In der Zeit vom 1. März bis 30. September",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "In der Zeit vom 1. Oktober bis 28. Februar",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "In der Zeit vom 1. Mai bis 31. Oktober Darf ein Landwirt seine Wiese mähen, obwohl sie mit besonders geschützten Pflanzen (z. B. Trollblumen) bewachsen ist?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 206,
+      "text": "Trollblumen) bewachsen ist?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja, ohne Einschränkung",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Ja, aber erst nach der Blüte",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Nein, grundsätzlich nicht Ein Feldrain ist mit einer Hecke aus Schlehe und Weißdorn bestockt. Der Grundbesitzer empfindet diese Hecke als störend. Deswegen rodet er die Fläche und brennt den restlichen Bewuchs nieder. Ist dies zulässig?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 207,
+      "text": "Bewuchs nieder. Ist dies zulässig?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Nein Welche der nachgenannten wildwachsenden Pflanzenarten dürfen grundsätzlich nicht gepflückt werden?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 208,
+      "text": "gepflückt werden?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Hahnenfuß",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Akelei",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "Seidelbast",
+          "correct": true
+        },
+        {
+          "letter": "d",
+          "text": "Margeriten",
+          "correct": false
+        },
+        {
+          "letter": "e",
+          "text": "Enzian Welche der nachgenannten wildwachsenden Pflanzenarten dürfen grundsätzlich nicht gepflückt werden?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 209,
+      "text": "gepflückt werden?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Seidelbast",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Trollblume",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "Frauenschuh",
+          "correct": true
+        },
+        {
+          "letter": "d",
+          "text": "Maiglöckchen",
+          "correct": false
+        },
+        {
+          "letter": "e",
+          "text": "Türkenbund",
+          "correct": true
+        },
+        {
+          "letter": "f",
+          "text": "Arnika Sachgebiet 3 Stand: 06.08.2025",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 210,
+      "text": "Welche der nachgenannten wildwachsenden Pflanzenarten dürfen grundsätzlich nicht gepflückt werden?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Silberdistel",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Frühlings-Adonisröschen",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "Sonnentau",
+          "correct": true
+        },
+        {
+          "letter": "d",
+          "text": "Gemeine Schafgarbe Ein Grundeigentümer beabsichtigt, in der freien Natur eine Hecke einschließlich ihrer Wurzeln zu beseitigen, um seine landwirtschaftliche Nutzfläche zu erweitern. Ist diese Rodung nach dem Naturschutzrecht grundsätzlich erlaubt?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 211,
+      "text": "dem Naturschutzrecht grundsätzlich erlaubt?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja, weil auch die Rodung von Hecken zur landwirtschaftlichen Nutzung gehört",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Ja, aber nur außerhalb der Vegetationszeit",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Nein Ein Eigenjagdbesitzer stellt fest, dass der Wildackeraufwuchs unter der Schattenwirkung seiner durchgewachsenen Hecke kümmert. Er beabsichtigt deshalb, die ihm gehörende Hecke zurückzuschneiden. Ist diese Maßnahme naturschutzrechtlich erlaubt?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 212,
+      "text": "zurückzuschneiden. Ist diese Maßnahme naturschutzrechtlich erlaubt?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja, ohne Einschränkung",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Ja, aber nur außerhalb der Vegetationszeit (Oktober bis Februar) In welchem Zeitraum ist es verboten, in der freien Natur Hecken und lebende Zäune zurückzuschneiden oder auf den Stock zu setzen?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 213,
+      "text": "In welchem Zeitraum ist es verboten, in der freien Natur Hecken und lebende Zäune zurückzuschneiden oder auf den Stock zu setzen?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "1. März bis 30. September",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "1. April bis 31. Oktober Welche der nachgenannten Tierarten gelten als invasiv?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 214,
+      "text": "Welche der nachgenannten Tierarten gelten als invasiv?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Waschbär",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Wildkaninchen",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Sumpfbiber (Nutria)",
+          "correct": true
+        },
+        {
+          "letter": "d",
+          "text": "Biber",
+          "correct": false
+        },
+        {
+          "letter": "e",
+          "text": "Nilgans",
+          "correct": true
+        },
+        {
+          "letter": "f",
+          "text": "Bisam Sachgebiet 3 Stand: 06.08.2025",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 215,
+      "text": "fleischhygienerechtlich vorgeschrieben?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Aufbrechen im Hängen",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Zuschneiden verschmutzter Teile des Wildbrets (z.B. Ausschuss)",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "Alsbaldige Kühlung auf 7 Grad Celsius Innentemperatur Sie schießen einen Rehbock mit einem offenen Knochenbruch, der mit der Erlegung nichts zu tun hat. Unterliegt dieser Rehbock der Fleischuntersuchungspflicht?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 216,
+      "text": "tun hat. Unterliegt dieser Rehbock der Fleischuntersuchungspflicht?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Nein Ein Jäger möchte ein von ihm erlegtes Stück Rehwild in der Decke, das beim Aufbrechen keinerlei Veränderungen aufwies, an einen Gastwirt verkaufen. Darf er dies ohne vorherige amtliche Untersuchung des Stückes tun?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 217,
+      "text": "Darf er dies ohne vorherige amtliche Untersuchung des Stückes tun?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Nein Sie erlegen ein Stück Rehwild und stellen dabei keine Merkmale fest, die das Fleisch als bedenklich zum Genuss für Menschen erscheinen lassen. Sie veräußern dieses Reh an Ihren Nachbarn zu dessen Eigenverbrauch. Ist eine Fleischuntersuchung erforderlich?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 218,
+      "text": "Nachbarn zu dessen Eigenverbrauch. Ist eine Fleischuntersuchung erforderlich?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Nein Beim Aufbrechen eines Schmalrehs stellt der Revierinhaber fest, dass Bauch- und Brustfell bläulich verfärbt sind. Er will das Schmalreh zerwirken und zum eigenen Verbrauch verwenden. Muss er es vorher zur Fleischuntersuchung bringen?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 219,
+      "text": "Muss er es vorher zur Fleischuntersuchung bringen?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Nein Sachgebiet 3 Stand: 06.08.2025",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 220,
+      "text": "verkaufen will?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Nein Ein Jagdgast hat im September ein Schmalreh, das zwei Tage zuvor bei einem Verkehrsunfall einen offenen Knochenbruch erlitten hatte, erlegt. Der Revierinhaber will das Reh dem Erleger zum eigenen Verzehr käuflich überlassen. Muss es vor dem Verzehr der amtlichen Fleischuntersuchung zugeführt werden?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 221,
+      "text": "zum eigenen Verzehr käuflich überlassen. Muss es vor dem Verzehr der amtlichen Fleischuntersuchung zugeführt werden?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Nein Ein Jagdgast hat drei Frischlinge erlegt. Der Revierinhaber möchte einen Frischling für sich behalten, den zweiten dem Erleger schenken und den dritten an einen Gastwirt verkaufen. Welche Frischlinge unterliegen der Trichinenschau?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 222,
+      "text": "Welche Frischlinge unterliegen der Trichinenschau?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Nur der an den Gastwirt zu verkaufende Frischling",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Alle drei Frischlinge",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "Nur die beiden Frischlinge, die er verschenkt und selbst behält Bestimmte Tiere unterliegen nach den Vorschriften des Lebensmittelrechts einer Untersuchung auf Trichinen, wenn ihr Fleisch zum Genuss für Menschen verwendet werden soll. Welche der nachgenannten Aussagen ist richtig?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 223,
+      "text": "soll. Welche der nachgenannten Aussagen ist richtig?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Schwarzwild jeden Alters unterliegt der Untersuchung",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Eine Untersuchung von Schwarzwild ist erst ab einem Alter von etwa 12 Monaten vorgeschrieben",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Schwarzwild unterliegt nicht der Untersuchung, wenn es im eigenen Haushalt verwendet und bei der Zubereitung ausreichend erhitzt wird Ist die „Kundige Person“ ohne weiteres berechtigt, Trichinenproben zu entnehmen?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 224,
+      "text": "Ist die „Kundige Person“ ohne weiteres berechtigt, Trichinenproben zu entnehmen?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Ja",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Nein Sachgebiet 3 Stand: 06.08.2025",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 225,
+      "text": "Welche Aufgaben hat die „Kundige Person“?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Vom Erleger Erkenntnisse über das Verhalten des Stückes vor dem Schuss einholen",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Wildkörper auf bedenkliche Merkmale untersuchen",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "Entscheidung treffen, ob Wildbret bedenkenlos verwertet werden kann",
+          "correct": true
+        },
+        {
+          "letter": "d",
+          "text": "Bei Vorliegen bedenklicher Merkmale die Fleischuntersuchung durchführen",
+          "correct": false
+        },
+        {
+          "letter": "e",
+          "text": "Vermarktung des Wildbrets übernehmen Welche Rechte und Pflichten hat die „Kundige Person“?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 226,
+      "text": "Welche Rechte und Pflichten hat die „Kundige Person“?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Anbringen des Wildursprungszeichens",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Entnahme der Proben für die Trichinenuntersuchung",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Untersuchung des Wildes auf bedenkliche Merkmale",
+          "correct": true
+        },
+        {
+          "letter": "d",
+          "text": "Ausstellung einer Unbedenklichkeitsbescheinigung, wenn keine bedenklichen Merkmale festgestellt werden",
+          "correct": true
+        },
+        {
+          "letter": "e",
+          "text": "Durchführung der amtlichen Trichinenschau Sie haben ein Schmalreh erlegt und stellen beim Aufbrechen bedenkliche Merkmale fest. Was müssen Sie als „Kundige Person“ tun, wenn Sie es an einen zugelassenen Wildverarbeitungsbetrieb weitergeben wollen?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 227,
+      "text": "Wildverarbeitungsbetrieb weitergeben wollen?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Höchstens drei Stücke einer Wildart",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Die Strecke eines Jagdtages",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "Ein Zehntel der üblichen Jahresstrecke im Revier Was ist nach den nationalen Vorschriften der Fleischhygiene unter „Erlegen“ zu verstehen?",
+          "correct": false
+        },
+        {
+          "letter": "d",
+          "text": "Wildkörper ohne Kopf und Aufbruch weiter geben Was zählt nach den Fleischhygienevorschriften als „kleine Menge“ bei der Vermarktung von Wildbret?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 228,
+      "text": "Was ist nach den nationalen Vorschriften der Fleischhygiene unter „Erlegen“ zu verstehen?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Töten von Wild ausschließlich durch Kugel- oder Schrotschuss",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Wildtötung durch Verkehrsunfall",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Töten von Wild nach jagdrechtlichen Vorschriften Sachgebiet 3 Stand: 06.08.2025",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 229,
+      "text": "Wildschinken abgeben?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "An Endverbraucher",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "An Einzelhändler einschließlich Gastronomie",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "An zugelassene Wildverarbeitungsbetriebe Ein Reh wird beim Zusammenprall mit einem Auto sofort getötet. Bei Ihrem Eintreffen ist das Stück zwar verendet aber noch warm. Was ist erlaubt?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 230,
+      "text": "Stück zwar verendet aber noch warm. Was ist erlaubt?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Das Reh zum Verzehr an eine befreundete Familie zu verschenken",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Das Reh an eine Metzgerei zu verkaufen",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Das Reh nach einer Fleischuntersuchung durch eine kundige Person an eine Gaststätte zu verkaufen",
+          "correct": false
+        },
+        {
+          "letter": "d",
+          "text": "Das Reh über die Tierkörperbeseitigung zu entsorgen",
+          "correct": true
+        },
+        {
+          "letter": "e",
+          "text": "Das Reh zur Fütterung Ihrer Jagdhunde zu verwerten Welche Aussagen zur Wildbrethygiene sind richtig?",
+          "correct": true
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 231,
+      "text": "Welche Aussagen zur Wildbrethygiene sind richtig?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Fallwild ist stets genussuntauglich",
+          "correct": true
+        },
+        {
+          "letter": "b",
+          "text": "Erlegtes Wild ist unverzüglich aufzubrechen und auszuweiden",
+          "correct": true
+        },
+        {
+          "letter": "c",
+          "text": "Nach dem Erlegen ist alles Wild alsbald auf eine Innentemperatur von 8° C abzukühlen",
+          "correct": false
+        },
+        {
+          "letter": "d",
+          "text": "Fallwild kann nach amtlicher Fleischuntersuchung genusstauglich sein Sie vermuten, dass in Ihrem Revier eine Wildseuche aufgetreten ist. Innerhalb welcher Frist haben Sie dies der zuständigen Behörde zu melden?",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
+    },
+    {
+      "id": 232,
+      "text": "haben Sie dies der zuständigen Behörde zu melden?",
+      "options": [
+        {
+          "letter": "a",
+          "text": "Innerhalb einer Woche",
+          "correct": false
+        },
+        {
+          "letter": "b",
+          "text": "Innerhalb eines Monats",
+          "correct": false
+        },
+        {
+          "letter": "c",
+          "text": "Unverzüglich",
+          "correct": true
+        },
+        {
+          "letter": "d",
+          "text": "Es ist keine Meldung erforderlich Sachgebiet 3 Stand: 06.08.2025",
+          "correct": false
+        }
+      ],
+      "category": "3. Sachgebiet: Rechtliche Vorschriften"
     },
     {
       "id": 1,
@@ -26648,5 +32292,5 @@
       "category": "6. Sachgebiet: Naturschutz, Landbau, Forstwesen, Wild- und"
     }
   ],
-  "lastModified": "2025-11-14T13:45:06+01:00"
+  "lastModified": "2025-11-14T13:48:35+01:00"
 }
