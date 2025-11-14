@@ -1,0 +1,404 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jagdfrageprüfer - Parser Verification</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            background: #f5f5f5;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+
+        h1 {
+            color: #333;
+            margin-bottom: 10px;
+        }
+
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+            margin-bottom: 30px;
+        }
+
+        .stat-box {
+            background: #f9f9f9;
+            padding: 15px;
+            border-radius: 5px;
+            border-left: 4px solid #007bff;
+        }
+
+        .stat-box h3 {
+            font-size: 14px;
+            color: #666;
+            margin-bottom: 10px;
+            text-transform: uppercase;
+        }
+
+        .stat-value {
+            font-size: 28px;
+            font-weight: bold;
+            color: #007bff;
+        }
+
+        .stat-box.correct {
+            border-left-color: #28a745;
+        }
+
+        .stat-box.correct .stat-value {
+            color: #28a745;
+        }
+
+        .stat-box.wrong {
+            border-left-color: #dc3545;
+        }
+
+        .stat-box.wrong .stat-value {
+            color: #dc3545;
+        }
+
+        .stat-box.issues {
+            border-left-color: #ffc107;
+        }
+
+        .stat-box.issues .stat-value {
+            color: #ffc107;
+        }
+
+        .filters {
+            margin-bottom: 20px;
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+
+        button {
+            padding: 10px 15px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            background: #007bff;
+            color: white;
+            font-size: 14px;
+        }
+
+        button:hover {
+            background: #0056b3;
+        }
+
+        button.active {
+            background: #28a745;
+        }
+
+        .questions-list {
+            display: grid;
+            gap: 20px;
+        }
+
+        .question-card {
+            border: 1px solid #ddd;
+            padding: 15px;
+            border-radius: 5px;
+            background: #fafafa;
+        }
+
+        .question-card.has-issue {
+            background: #fff3cd;
+            border-color: #ffc107;
+        }
+
+        .question-card.problem {
+            background: #f8d7da;
+            border-color: #dc3545;
+        }
+
+        .question-num {
+            font-weight: bold;
+            color: #007bff;
+            margin-bottom: 10px;
+        }
+
+        .question-text {
+            margin-bottom: 10px;
+            color: #333;
+        }
+
+        .options {
+            margin-left: 20px;
+            display: grid;
+            gap: 5px;
+        }
+
+        .option {
+            padding: 8px;
+            border-radius: 3px;
+            font-size: 14px;
+        }
+
+        .option.correct {
+            background: #d4edda;
+            color: #155724;
+            border-left: 3px solid #28a745;
+            padding-left: 10px;
+        }
+
+        .option.wrong {
+            background: #f8d7da;
+            color: #721c24;
+            border-left: 3px solid #dc3545;
+            padding-left: 10px;
+        }
+
+        .option-text {
+            display: inline-block;
+        }
+
+        .issue-marker {
+            display: inline-block;
+            background: #dc3545;
+            color: white;
+            padding: 2px 6px;
+            border-radius: 3px;
+            font-size: 12px;
+            margin-left: 10px;
+        }
+
+        .category-info {
+            font-size: 12px;
+            color: #666;
+            margin-top: 10px;
+            padding-top: 10px;
+            border-top: 1px solid #ddd;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 40px;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Jagdfrageprüfer - Parser Verification Report</h1>
+
+        <div class="stats" id="stats">
+            <div class="loading">Loading...</div>
+        </div>
+
+        <div class="filters">
+            <button id="all-btn" class="active">All</button>
+            <button id="correct-btn">Correct Only</button>
+            <button id="wrong-btn">Issues</button>
+            <button id="no-category-btn">No Category</button>
+            <button id="no-options-btn">No Options</button>
+        </div>
+
+        <div class="questions-list" id="questions"></div>
+    </div>
+
+    <script>
+        let allQuestions = [];
+        let filter = 'all';
+
+        async function loadQuestions() {
+            try {
+                const response = await fetch('../questions.json');
+                const data = await response.json();
+                allQuestions = data.questions || [];
+
+                analyzeAndDisplay();
+            } catch (error) {
+                console.error('Error loading questions:', error);
+                document.getElementById('stats').innerHTML = '<div class="loading">Error loading questions.json</div>';
+            }
+        }
+
+        function analyzeQuestions() {
+            let stats = {
+                total: allQuestions.length,
+                questionsWithCorrectAnswers: 0,
+                questionsWithoutCorrectAnswers: 0,
+                questionsWithoutOptions: 0,
+                questionsWithoutCategory: 0,
+                totalCorrectAnswers: 0,
+                totalWrongAnswers: 0
+            };
+
+            allQuestions.forEach(q => {
+                const hasOptions = q.options && q.options.length > 0;
+                const hasCategory = q.category && q.category.trim() !== '';
+                const correctCount = hasOptions ? q.options.filter(o => o.correct).length : 0;
+
+                if (!hasOptions) {
+                    stats.questionsWithoutOptions++;
+                }
+                if (!hasCategory) {
+                    stats.questionsWithoutCategory++;
+                }
+
+                if (correctCount > 0) {
+                    stats.questionsWithCorrectAnswers++;
+                    stats.totalCorrectAnswers += correctCount;
+                } else if (hasOptions) {
+                    stats.questionsWithoutCorrectAnswers++;
+                }
+
+                if (hasOptions) {
+                    stats.totalWrongAnswers += q.options.filter(o => !o.correct).length;
+                }
+            });
+
+            return stats;
+        }
+
+        function displayStats(stats) {
+            const html = `
+                <div class="stat-box">
+                    <h3>Total Questions</h3>
+                    <div class="stat-value">${stats.total}</div>
+                </div>
+                <div class="stat-box correct">
+                    <h3>With Correct Answers</h3>
+                    <div class="stat-value">${stats.questionsWithCorrectAnswers}</div>
+                </div>
+                <div class="stat-box wrong">
+                    <h3>Without Correct Answers</h3>
+                    <div class="stat-value">${stats.questionsWithoutCorrectAnswers}</div>
+                </div>
+                <div class="stat-box issues">
+                    <h3>Without Options</h3>
+                    <div class="stat-value">${stats.questionsWithoutOptions}</div>
+                </div>
+                <div class="stat-box issues">
+                    <h3>Without Category</h3>
+                    <div class="stat-value">${stats.questionsWithoutCategory}</div>
+                </div>
+                <div class="stat-box">
+                    <h3>Total Correct Options</h3>
+                    <div class="stat-value">${stats.totalCorrectAnswers}</div>
+                </div>
+                <div class="stat-box">
+                    <h3>Total Wrong Options</h3>
+                    <div class="stat-value">${stats.totalWrongAnswers}</div>
+                </div>
+            `;
+            document.getElementById('stats').innerHTML = html;
+        }
+
+        function filterQuestions(questions) {
+            return questions.filter(q => {
+                const hasOptions = q.options && q.options.length > 0;
+                const hasCategory = q.category && q.category.trim() !== '';
+                const correctCount = hasOptions ? q.options.filter(o => o.correct).length : 0;
+
+                switch(filter) {
+                    case 'correct':
+                        return correctCount > 0;
+                    case 'wrong':
+                        return correctCount === 0 && hasOptions;
+                    case 'no-category':
+                        return !hasCategory;
+                    case 'no-options':
+                        return !hasOptions;
+                    default:
+                        return true;
+                }
+            });
+        }
+
+        function displayQuestions(questions) {
+            const filtered = filterQuestions(questions);
+
+            const html = filtered.map(q => {
+                const hasOptions = q.options && q.options.length > 0;
+                const hasCategory = q.category && q.category.trim() !== '';
+                const correctCount = hasOptions ? q.options.filter(o => o.correct).length : 0;
+
+                let cardClass = '';
+                let issueMarker = '';
+
+                if (!hasOptions) {
+                    cardClass = 'problem';
+                    issueMarker = '<span class="issue-marker">NO OPTIONS</span>';
+                } else if (correctCount === 0) {
+                    cardClass = 'problem';
+                    issueMarker = '<span class="issue-marker">NO CORRECT ANSWERS</span>';
+                } else if (!hasCategory) {
+                    cardClass = 'has-issue';
+                    issueMarker = '<span class="issue-marker">NO CATEGORY</span>';
+                }
+
+                const optionsHtml = hasOptions ? q.options.map(o => `
+                    <div class="option ${o.correct ? 'correct' : 'wrong'}">
+                        <strong>${o.letter})</strong> <span class="option-text">${o.text}</span>
+                    </div>
+                `).join('') : '<div class="option wrong"><strong>No options</strong></div>';
+
+                return `
+                    <div class="question-card ${cardClass}">
+                        <div class="question-num">Q${q.id} ${issueMarker}</div>
+                        <div class="question-text">${q.text}</div>
+                        <div class="options">${optionsHtml}</div>
+                        <div class="category-info">
+                            <strong>Category:</strong> ${hasCategory ? q.category : '<em>EMPTY</em>'}
+                        </div>
+                    </div>
+                `;
+            }).join('');
+
+            document.getElementById('questions').innerHTML = html || '<div class="loading">No questions match filter</div>';
+        }
+
+        function analyzeAndDisplay() {
+            const stats = analyzeQuestions();
+            displayStats(stats);
+            displayQuestions(allQuestions);
+        }
+
+        // Event listeners
+        document.getElementById('all-btn').addEventListener('click', function() {
+            setFilter('all', this);
+        });
+        document.getElementById('correct-btn').addEventListener('click', function() {
+            setFilter('correct', this);
+        });
+        document.getElementById('wrong-btn').addEventListener('click', function() {
+            setFilter('wrong', this);
+        });
+        document.getElementById('no-category-btn').addEventListener('click', function() {
+            setFilter('no-category', this);
+        });
+        document.getElementById('no-options-btn').addEventListener('click', function() {
+            setFilter('no-options', this);
+        });
+
+        function setFilter(newFilter, button) {
+            filter = newFilter;
+            document.querySelectorAll('.filters button').forEach(b => b.classList.remove('active'));
+            button.classList.add('active');
+            displayQuestions(allQuestions);
+        }
+
+        // Load questions on page load
+        loadQuestions();
+    </script>
+</body>
+</html>
